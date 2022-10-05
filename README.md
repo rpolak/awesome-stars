@@ -98,6 +98,7 @@
 
 ## Dockerfile 
 
+- [mtoensing/Docker-Minecraft-PaperMC-Server](https://github.com/mtoensing/Docker-Minecraft-PaperMC-Server) - Starts a Minecraft PaperMC 1.19 server
 - [FoldingAtHome/containers](https://github.com/FoldingAtHome/containers) - Docker containers for easily launching the Folding@home client anywhere!
 - [Praqma/Network-MultiTool](https://github.com/Praqma/Network-MultiTool) - Multi-arch multitool for container network troubleshooting.
 - [cagataygurturk/docker-ssh-tunnel](https://github.com/cagataygurturk/docker-ssh-tunnel) - Simple SSH tunnel with Docker
@@ -155,6 +156,7 @@
 
 ## Java 
 
+- [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [Netflix/zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [widdix/aws-cf-templates](https://github.com/widdix/aws-cf-templates) - Free Templates for AWS CloudFormation
