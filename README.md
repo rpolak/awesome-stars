@@ -82,6 +82,7 @@
 
 ## C++ 
 
+- [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [bitcoin-sv/bitcoin-sv](https://github.com/bitcoin-sv/bitcoin-sv) - Bitcoin SV (Satoshi Vision) is the original Bitcoin. This Github repository provides open-source software to enable use of Bitcoin SV.
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
@@ -231,6 +232,7 @@
 
 ## Python 
 
+- [iamjawa/zork-py](https://github.com/iamjawa/zork-py) - Zork: The PY Edition (A Python Text-Adventure based loosely on the original Zork.)
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
