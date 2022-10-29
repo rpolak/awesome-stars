@@ -538,6 +538,7 @@
 
 ## others 
 
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [iamjawa/zork-py](https://github.com/iamjawa/zork-py) - Zork: The PY Edition (A Python Text-Adventure based loosely on the original Zork.)
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [Edgio/terraform-provider-edgecast](https://github.com/Edgio/terraform-provider-edgecast) - Terraform Provider for Edgecast Platform
