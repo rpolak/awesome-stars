@@ -42,6 +42,7 @@
 - [express](#express)
 - [finance](#finance)
 - [firefox](#firefox)
+- [flutter](#flutter)
 - [framework](#framework)
 - [game](#game)
 - [git](#git)
@@ -314,6 +315,10 @@
 ## firefox 
 
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+
+## flutter 
+
+- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
 ## framework 
 
