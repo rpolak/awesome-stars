@@ -7,7 +7,6 @@
 
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
-- [BitBake](#bitbake)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -41,10 +40,6 @@
 ## Batchfile 
 
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
-
-## BitBake 
-
-- [meta-debian/meta-debian](https://github.com/meta-debian/meta-debian) - Meta-layer for Poky to build embedded Linux exvironments by Debian's source codes
 
 ## C 
 
