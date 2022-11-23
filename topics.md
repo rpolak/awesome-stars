@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [ai](#ai)
+- [analytics](#analytics)
 - [android](#android)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
@@ -115,6 +116,11 @@
 ## ai 
 
 - [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Automatically review and improve your Python code. ⭐ this repo and Sourcery Starbot will send you a PR. Or install our CLI to improve your code locally
+
+## analytics 
+
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
 ## android 
 
@@ -548,6 +554,7 @@
 
 ## others 
 
+- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [algorand/go-algorand](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
 - [Ilshidur/tor-relay-docker](https://github.com/Ilshidur/tor-relay-docker) - 🐋 Lightweight TOR relay image (17.74 MB), based on LinuxServer.io Alpine Linux.
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
