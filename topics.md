@@ -95,6 +95,7 @@
 - [security](#security)
 - [serverless](#serverless)
 - [shell](#shell)
+- [solidity](#solidity)
 - [sql](#sql)
 - [statistics](#statistics)
 - [swift](#swift)
@@ -554,6 +555,7 @@
 
 ## others 
 
+- [juliagoda/CH341SER](https://github.com/juliagoda/CH341SER) - CH341SER driver with fixed bug
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [algorand/go-algorand](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
 - [Ilshidur/tor-relay-docker](https://github.com/Ilshidur/tor-relay-docker) - 🐋 Lightweight TOR relay image (17.74 MB), based on LinuxServer.io Alpine Linux.
@@ -771,6 +773,11 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [freebsd/poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
+
+## solidity 
+
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
+- [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 
 ## sql 
 
