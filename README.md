@@ -105,6 +105,7 @@
 
 ## Go 
 
+- [newrelic/infrastructure-agent](https://github.com/newrelic/infrastructure-agent) - New Relic Infrastructure Agent
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [Edgio/terraform-provider-edgecast](https://github.com/Edgio/terraform-provider-edgecast) - Terraform Provider for Edgecast Platform
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
