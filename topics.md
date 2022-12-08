@@ -555,6 +555,7 @@
 
 ## others 
 
+- [newrelic/infrastructure-agent](https://github.com/newrelic/infrastructure-agent) - New Relic Infrastructure Agent
 - [juliagoda/CH341SER](https://github.com/juliagoda/CH341SER) - CH341SER driver with fixed bug
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [algorand/go-algorand](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
