@@ -43,6 +43,7 @@
 
 ## C 
 
+- [jjustman/libatsc3](https://github.com/jjustman/libatsc3) - ATSC 3.0 NGBP Open Source Library and Android/AppleTV Samples - Supporting MMT and ROUTE/DASH, along with NRT data delivery services and many of the A/300 set of NextGen broadcast specifications for m
 - [juliagoda/CH341SER](https://github.com/juliagoda/CH341SER) - CH341SER driver with fixed bug
 - [algorand/go-algorand](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -139,6 +140,7 @@
 
 ## HCL 
 
+- [crisboarna/terraform-aws-api-gateway-lambda-dynamodb](https://github.com/crisboarna/terraform-aws-api-gateway-lambda-dynamodb) - Terraform module which deploys a serverless HTTP endpoint backed by AWS API Gateway, Lambda & DynamoDB
 - [segmentio/stack](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure with AWS
 - [hashicorp/learn-consul-kubernetes](https://github.com/hashicorp/learn-consul-kubernetes) - 
 - [stevenfeltner/terraform-spotinst-k8s-ocean](https://github.com/stevenfeltner/terraform-spotinst-k8s-ocean) - ***Deprecated - Moved to Spotinst Repo*** Spotinst Terraform Module to integrate existing AWS k8s cluster with Ocean
@@ -233,6 +235,7 @@
 
 ## Python 
 
+- [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [digitalocean/pydo](https://github.com/digitalocean/pydo) - Official DigitalOcean Python Client based on the DO OpenAPIv3 specification
 - [iamjawa/zork-py](https://github.com/iamjawa/zork-py) - Zork: The PY Edition (A Python Text-Adventure based loosely on the original Zork.)
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -330,7 +333,7 @@
 - [maxschlapfer/MacAdminHelpers](https://github.com/maxschlapfer/MacAdminHelpers) - Helpers for OS X packaging and MacAdmins
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config) - Shell scripts for customized macOS machine setup and configuration.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [freebsd/poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
 - [bobthecow/git-flow-completion](https://github.com/bobthecow/git-flow-completion) - Bash, Zsh and fish completion support for git-flow.
@@ -348,6 +351,7 @@
 
 ## TypeScript 
 
+- [openBA-NextGenTV/OpenBA-NextGenTV](https://github.com/openBA-NextGenTV/OpenBA-NextGenTV) - 
 - [ProjectOpenSea/opensea-js](https://github.com/ProjectOpenSea/opensea-js) - JavaScript SDK for the OpenSea marketplace. Let your users buy or sell cryptogoods on your own site!
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
