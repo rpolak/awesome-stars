@@ -232,6 +232,7 @@
 
 ## Perl 
 
+- [xcat2/xcat-core](https://github.com/xcat2/xcat-core) - Code repo for xCAT core packages
 - [freebsd/freebsd-quarterly](https://github.com/freebsd/freebsd-quarterly) - FreeBSD quarterly reports
 - [sitaramc/gitolite](https://github.com/sitaramc/gitolite) - Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 
