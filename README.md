@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -32,10 +31,6 @@
 - [Starlark](#starlark)
 - [Swift](#swift)
 - [TypeScript](#typescript)
-
-## Assembly 
-
-- [pooler/cpuminer](https://github.com/pooler/cpuminer) - CPU miner for Litecoin and Bitcoin
 
 ## Batchfile 
 
