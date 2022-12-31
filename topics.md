@@ -601,7 +601,6 @@
 - [freebsd/freebsd-quarterly](https://github.com/freebsd/freebsd-quarterly) - FreeBSD quarterly reports
 - [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) - 
 - [todxx/teamredminer](https://github.com/todxx/teamredminer) - AMD GPU Optimized Cryptocurrency Miner
-- [pooler/cpuminer](https://github.com/pooler/cpuminer) - CPU miner for Litecoin and Bitcoin
 - [decentraland/marketplace](https://github.com/decentraland/marketplace) - 🏛️ Decentraland's NFT Marketplace
 - [decentraland/explorer](https://github.com/decentraland/explorer) - 🌎 Explore Decentraland from a web browser
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications
