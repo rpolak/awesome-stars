@@ -568,6 +568,7 @@
 
 ## others 
 
+- [DNSPerf/dnsperf](https://github.com/DNSPerf/dnsperf) - DNS Performance testing tool
 - [xcat2/xcat-core](https://github.com/xcat2/xcat-core) - Code repo for xCAT core packages
 - [100daysofdevops/100daysofdevops](https://github.com/100daysofdevops/100daysofdevops) - 
 - [kegbeach/FFmpeg_AC4](https://github.com/kegbeach/FFmpeg_AC4) - Mirror of https://git.ffmpeg.org/ffmpeg.git
