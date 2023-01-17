@@ -103,6 +103,7 @@
 
 ## Go 
 
+- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [newrelic/infrastructure-agent](https://github.com/newrelic/infrastructure-agent) - New Relic Infrastructure Agent
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [Edgio/terraform-provider-edgecast](https://github.com/Edgio/terraform-provider-edgecast) - Terraform Provider for Edgecast Platform
@@ -241,7 +242,7 @@
 - [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes monitoring, troubleshooting, and automation platform
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
 - [stevenfeltner/terraform-spotinst-ocean-aws-k8s-lb](https://github.com/stevenfeltner/terraform-spotinst-ocean-aws-k8s-lb) - Terraform Module to Add and Remove Loadbalancer from Ocean Cluster
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications
 - [maxmind/GeoIP2-python](https://github.com/maxmind/GeoIP2-python) - Python code for GeoIP2 webservice client and database reader
