@@ -9,6 +9,7 @@
 - [ai](#ai)
 - [analytics](#analytics)
 - [android](#android)
+- [angular](#angular)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
@@ -34,6 +35,7 @@
 - [cybersecurity](#cybersecurity)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
+- [data-visualization](#data-visualization)
 - [database](#database)
 - [devops](#devops)
 - [django](#django)
@@ -129,6 +131,10 @@
 
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
 - [openstf/stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser.
+
+## angular 
+
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 
 ## api 
 
@@ -272,6 +278,10 @@
 ## data-science 
 
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+
+## data-visualization 
+
+- [nowthis/sankeymatic](https://github.com/nowthis/sankeymatic) - Make Beautiful Flow Diagrams
 
 ## database 
 
@@ -692,6 +702,7 @@
 
 ## p2p 
 
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 
