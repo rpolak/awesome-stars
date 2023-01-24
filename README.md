@@ -170,6 +170,7 @@
 
 ## JavaScript 
 
+- [newrelic/newrelic-node-nextjs](https://github.com/newrelic/newrelic-node-nextjs) - New Relic Next.js instrumentation for the Node Agent
 - [nowthis/sankeymatic](https://github.com/nowthis/sankeymatic) - Make Beautiful Flow Diagrams
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
