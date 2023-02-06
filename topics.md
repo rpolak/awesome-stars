@@ -593,6 +593,8 @@
 
 ## others 
 
+- [rpolak/awesome-stars](https://github.com/rpolak/awesome-stars) - My Awesome List
+- [rpolak/node-easy-notes-app](https://github.com/rpolak/node-easy-notes-app) - A simple Note-Taking app built using Node.js, Express and Mongoose
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - OpenTelemetry Community Demo Application
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
@@ -621,7 +623,6 @@
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [ACloudGuru-Resources/Course-Certified-Solutions-Architect-Associate](https://github.com/ACloudGuru-Resources/Course-Certified-Solutions-Architect-Associate) - AWS Certified Solutions Architect - Associate
 - [trexminer/T-Rex](https://github.com/trexminer/T-Rex) - T-Rex NVIDIA GPU miner with web control monitoring page
-- [rpolak/node-easy-notes-app](https://github.com/rpolak/node-easy-notes-app) - A simple Note-Taking app built using Node.js, Express and Mongoose
 - [Netflix/zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 - [hashicorp/learn-consul-kubernetes](https://github.com/hashicorp/learn-consul-kubernetes) - 
 - [stevenfeltner/terraform-spotinst-k8s-ocean](https://github.com/stevenfeltner/terraform-spotinst-k8s-ocean) - ***Deprecated - Moved to Spotinst Repo*** Spotinst Terraform Module to integrate existing AWS k8s cluster with Ocean
