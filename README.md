@@ -47,7 +47,7 @@
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [varnishcache/varnish-cache](https://github.com/varnishcache/varnish-cache) - Varnish Cache source code repository
-- [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - FreeBSD src tree (read-only mirror)
+- [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [winscp/winscp](https://github.com/winscp/winscp) - WinSCP is a popular free SFTP and FTP client for Windows, a powerful file manager that will improve your productivity. It supports also Amazon S3, FTPS, SCP and WebDAV protocols. Power users can autom
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
 - [openvswitch/ovs](https://github.com/openvswitch/ovs) - Open vSwitch
@@ -369,7 +369,7 @@
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [openBA-NextGenTV/OpenBA-NextGenTV](https://github.com/openBA-NextGenTV/OpenBA-NextGenTV) - 
-- [ProjectOpenSea/opensea-js](https://github.com/ProjectOpenSea/opensea-js) - JavaScript SDK for the OpenSea marketplace. Let your users buy or sell cryptogoods on your own site!
+- [ProjectOpenSea/opensea-js](https://github.com/ProjectOpenSea/opensea-js) - JavaScript SDK for the OpenSea marketplace. Let your users buy or sell NFTs on your own site!
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [radarlabs/api-diff](https://github.com/radarlabs/api-diff) - A command line tool for diffing json rest APIs
