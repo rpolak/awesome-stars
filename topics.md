@@ -304,6 +304,7 @@
 
 ## docker 
 
+- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [guessi/docker-dnsperf](https://github.com/guessi/docker-dnsperf) - DNS Performance Testing with Kubernetes Pods
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
@@ -407,13 +408,13 @@
 
 ## hacktoberfest 
 
+- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [pschanely/CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
@@ -593,6 +594,7 @@
 
 ## others 
 
+- [hassanhabib/The-Standard](https://github.com/hassanhabib/The-Standard) - This is The Standard. A collection of decades of experience in the engineering industry. I authored it to help you navigate the vast ocean of knowledge. The Standard is not perfect and never will be, 
 - [fetep/expressvpn-proxy](https://github.com/fetep/expressvpn-proxy) - expressvpn proxy in a container
 - [rpolak/awesome-stars](https://github.com/rpolak/awesome-stars) - My Awesome List
 - [rpolak/node-easy-notes-app](https://github.com/rpolak/node-easy-notes-app) - A simple Note-Taking app built using Node.js, Express and Mongoose
