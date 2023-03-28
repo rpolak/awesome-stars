@@ -29,7 +29,6 @@
 - [coding](#coding)
 - [config](#config)
 - [continuous-integration](#continuous-integration)
-- [covid-19](#covid-19)
 - [cryptocurrency](#cryptocurrency)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -251,10 +250,6 @@
 
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [pycontribs/jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python API for accessing resources and configuring Hudson & Jenkins continuous-integration servers
-
-## covid-19 
-
-- [FoldingAtHome/coronavirus](https://github.com/FoldingAtHome/coronavirus) - Folding@home COVID-19 efforts
 
 ## cryptocurrency 
 
