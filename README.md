@@ -236,6 +236,7 @@
 
 ## PHP 
 
+- [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 - [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
 - [phpipam/phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
