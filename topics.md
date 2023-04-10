@@ -39,6 +39,7 @@
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
+- [education](#education)
 - [electron](#electron)
 - [emulator](#emulator)
 - [es6](#es6)
@@ -312,6 +313,10 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [nickbabcock/bottle-ssl](https://github.com/nickbabcock/bottle-ssl) - A simple web page using BottlePy and SSL
 
+## education 
+
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+
 ## electron 
 
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
@@ -330,6 +335,7 @@
 
 ## ethereum 
 
+- [pk910/PoWFaucet](https://github.com/pk910/PoWFaucet) - Proof of Work secured faucet for EVM chains
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [etclabscore/core-geth](https://github.com/etclabscore/core-geth) - A highly configurable Go implementation of the Ethereum protocol.
@@ -608,7 +614,7 @@
 - [juliagoda/CH341SER](https://github.com/juliagoda/CH341SER) - CH341SER driver with fixed bug
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [algorand/go-algorand](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
-- [Ilshidur/tor-relay-docker](https://github.com/Ilshidur/tor-relay-docker) - 🐋 Lightweight TOR relay image (17.74 MB), based on LinuxServer.io Alpine Linux.
+- [Ilshidur/tor-relay-docker](https://github.com/Ilshidur/tor-relay-docker) - 🐋 Lightweight TOR relay image (14.23 MB), based on LinuxServer.io Alpine Linux.
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [iamjawa/zork-py](https://github.com/iamjawa/zork-py) - Zork: The PY Edition (A Python Text-Adventure based loosely on the original Zork.)
