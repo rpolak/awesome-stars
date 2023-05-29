@@ -98,6 +98,7 @@
 - [rest-api](#rest-api)
 - [rust](#rust)
 - [security](#security)
+- [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
 - [solidity](#solidity)
@@ -161,12 +162,16 @@
 ## awesome 
 
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
 ## awesome-list 
 
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 
 ## aws 
@@ -411,7 +416,6 @@
 ## hacktoberfest 
 
 - [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
-- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
@@ -603,6 +607,7 @@
 
 ## others 
 
+- [cybersandwich/twit-transcripts](https://github.com/cybersandwich/twit-transcripts) - Whisper AI created transcripts for TWiT network podcasts
 - [aws-samples/amazon-cloudfront-waf-secretsmanager](https://github.com/aws-samples/amazon-cloudfront-waf-secretsmanager) - Enhance Amazon CloudFront Origin Security with AWS WAF and AWS Secrets Manager
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
@@ -659,7 +664,6 @@
 - [newrelic/nr1-learn-nrql](https://github.com/newrelic/nr1-learn-nrql) - NR1 learn NRQL helps New Relic Customers quickly learn our custom query language - NRQL
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [vultr/vultr-node](https://github.com/vultr/vultr-node) - Vultr Node API client
-- [Chatcola-com/chatcola](https://github.com/Chatcola-com/chatcola) - chatcola.com messaging server - self-host your messages without multi-domain nightmare!
 - [openvswitch/ovs](https://github.com/openvswitch/ovs) - Open vSwitch
 - [IBM-Cloud/ibm-cloud-developer-tools](https://github.com/IBM-Cloud/ibm-cloud-developer-tools) - Installation scripts for new IBM Cloud Developer CLI Plugin and it's dependencies.
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
@@ -714,7 +718,7 @@
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 - [aws-samples/aws-device-farm-sample-app-for-ios](https://github.com/aws-samples/aws-device-farm-sample-app-for-ios) - 
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [evidens/json2csv](https://github.com/evidens/json2csv) - Converts JSON files to CSV (pulling data from nested structures). Useful for Mongo data
 - [boto/boto](https://github.com/boto/boto) - For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services
 - [ramnode/LookingGlass](https://github.com/ramnode/LookingGlass) - A Python-backed Looking Glass in the spirit of https://github.com/telephone/LookingGlass
@@ -829,6 +833,12 @@
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
+
+## self-hosted 
+
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
+- [Chatcola-com/chatcola](https://github.com/Chatcola-com/chatcola) - chatcola.com messaging server - self-host your messages without multi-domain nightmare!
+- [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
 
 ## serverless 
 
