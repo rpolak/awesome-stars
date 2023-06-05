@@ -304,7 +304,7 @@
 ## docker 
 
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
-- [guessi/docker-dnsperf](https://github.com/guessi/docker-dnsperf) - DNS Performance Testing with Kubernetes Pods
+- [guessi/kubernetes-dnsperf](https://github.com/guessi/kubernetes-dnsperf) - DNS Performance Testing with Kubernetes Pods
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
 - [etclabscore/core-geth](https://github.com/etclabscore/core-geth) - A highly configurable Go implementation of the Ethereum protocol.
@@ -495,7 +495,7 @@
 ## kubernetes 
 
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-- [guessi/docker-dnsperf](https://github.com/guessi/docker-dnsperf) - DNS Performance Testing with Kubernetes Pods
+- [guessi/kubernetes-dnsperf](https://github.com/guessi/kubernetes-dnsperf) - DNS Performance Testing with Kubernetes Pods
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
