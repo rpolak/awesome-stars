@@ -253,6 +253,7 @@
 
 ## Python 
 
+- [darrenoakey/alter](https://github.com/darrenoakey/alter) - a script that uses ai to change files on your machine
 - [aws-samples/amazon-cloudfront-waf-secretsmanager](https://github.com/aws-samples/amazon-cloudfront-waf-secretsmanager) - Enhance Amazon CloudFront Origin Security with AWS WAF and AWS Secrets Manager
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
@@ -372,6 +373,7 @@
 
 ## TypeScript 
 
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [decentraland/explorer-desktop-launcher](https://github.com/decentraland/explorer-desktop-launcher) - 
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [pk910/PoWFaucet](https://github.com/pk910/PoWFaucet) - Proof of Work secured faucet for EVM chains
