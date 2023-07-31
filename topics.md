@@ -501,6 +501,7 @@
 
 ## kubernetes 
 
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [guessi/kubernetes-dnsperf](https://github.com/guessi/kubernetes-dnsperf) - DNS Performance Testing with Kubernetes Pods
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -852,6 +853,7 @@
 
 ## serverless 
 
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
