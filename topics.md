@@ -178,6 +178,7 @@
 
 ## aws 
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
 - [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
 - [tilfinltd/aws-extend-switch-roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 - [dod-iac/terraform-aws-lambda-edge-function](https://github.com/dod-iac/terraform-aws-lambda-edge-function) - AWS Lambda Function for use with Lambda@Edge
@@ -618,6 +619,7 @@
 
 ## others 
 
+- [ooiyeefei/aws-iam-identity-center-permission-policies-analyzer](https://github.com/ooiyeefei/aws-iam-identity-center-permission-policies-analyzer) - This solution uses AWS SDKs to automate the analysis of all users in AWS Identity Center (previously AWS SSO) and retrieve the attached permission policies (Inline, AWS Managed, Customer Managed) base
 - [decentraland/explorer-desktop-launcher](https://github.com/decentraland/explorer-desktop-launcher) - 
 - [cybersandwich/twit-transcripts](https://github.com/cybersandwich/twit-transcripts) - Whisper AI created transcripts for TWiT network podcasts
 - [aws-samples/amazon-cloudfront-waf-secretsmanager](https://github.com/aws-samples/amazon-cloudfront-waf-secretsmanager) - Enhance Amazon CloudFront Origin Security with AWS WAF and AWS Secrets Manager
@@ -898,6 +900,8 @@
 
 ## terraform 
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
+- [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [spotinst/terraform-provider-spotinst](https://github.com/spotinst/terraform-provider-spotinst) - Terraform Spotinst provider.
 - [hashicorp/docker-hub-images](https://github.com/hashicorp/docker-hub-images) - Automatic builds of container images for Docker Hub
 - [IBM-Cloud/terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs
