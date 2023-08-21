@@ -99,6 +99,7 @@
 - [react-native](#react-native)
 - [rest-api](#rest-api)
 - [rust](#rust)
+- [scala](#scala)
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
@@ -479,6 +480,7 @@
 
 ## java 
 
+- [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [JodaOrg/joda-time](https://github.com/JodaOrg/joda-time) - Joda-Time is the widely used replacement for the Java date and time classes prior to Java SE 8.
@@ -622,6 +624,7 @@
 
 ## others 
 
+- [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.
 - [aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team) - Open-source temporary elevated access solution for AWS IAM Identity Center.
 - [ooiyeefei/aws-iam-identity-center-permission-policies-analyzer](https://github.com/ooiyeefei/aws-iam-identity-center-permission-policies-analyzer) - This solution uses AWS SDKs to automate the analysis of all users in AWS Identity Center (previously AWS SSO) and retrieve the attached permission policies (Inline, AWS Managed, Customer Managed) base
 - [decentraland/explorer-desktop-launcher](https://github.com/decentraland/explorer-desktop-launcher) - 
@@ -777,6 +780,7 @@
 
 ## python 
 
+- [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [digitalocean/pydo](https://github.com/digitalocean/pydo) - Official DigitalOcean Python Client based on the DO OpenAPIv3 specification
@@ -843,6 +847,10 @@
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
+## scala 
+
+- [apache/flink](https://github.com/apache/flink) - Apache Flink
+
 ## security 
 
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -880,6 +888,7 @@
 
 ## sql 
 
+- [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [confluentinc/examples](https://github.com/confluentinc/examples) - Apache Kafka and Confluent Platform examples and demos
 
 ## statistics 
