@@ -17,7 +17,6 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -104,6 +103,7 @@
 
 ## Go 
 
+- [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes
@@ -168,6 +168,7 @@
 
 ## Java 
 
+- [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [Netflix/zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
@@ -212,10 +213,6 @@
 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
-
-## MDX 
-
-- [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 
 ## Makefile 
 
@@ -384,6 +381,7 @@
 
 ## TypeScript 
 
+- [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [decentraland/explorer-desktop-launcher](https://github.com/decentraland/explorer-desktop-launcher) - 
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
