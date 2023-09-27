@@ -444,6 +444,7 @@
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [pschanely/CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
@@ -638,6 +639,7 @@
 
 ## others 
 
+- [jSherz/automate-aws-access-removal](https://github.com/jSherz/automate-aws-access-removal) - Immediately block users from your AWS organization when they're disabled or removed in Identity Center.
 - [aws-samples/aws-iam-identity-center-extensions](https://github.com/aws-samples/aws-iam-identity-center-extensions) - This solution is intended for enterprises that need a streamlined way of managing user access to their AWS accounts. Using this solution, your identity and access management teams can extend AWS SSO f
 - [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.
 - [aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team) - Open-source temporary elevated access solution for AWS IAM Identity Center.
@@ -679,7 +681,6 @@
 - [trexminer/T-Rex](https://github.com/trexminer/T-Rex) - T-Rex NVIDIA GPU miner with web control monitoring page
 - [Netflix/zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 - [hashicorp/learn-consul-kubernetes](https://github.com/hashicorp/learn-consul-kubernetes) - 
-- [stevenfeltner/terraform-spotinst-k8s-ocean](https://github.com/stevenfeltner/terraform-spotinst-k8s-ocean) - ***Deprecated - Moved to Spotinst Repo*** Spotinst Terraform Module to integrate existing AWS k8s cluster with Ocean
 - [stevenfeltner/terraform-spotinst-ocean-aws-k8s-lb](https://github.com/stevenfeltner/terraform-spotinst-ocean-aws-k8s-lb) - Terraform Module to Add and Remove Loadbalancer from Ocean Cluster
 - [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [freebsd/freebsd-quarterly](https://github.com/freebsd/freebsd-quarterly) - FreeBSD quarterly reports
