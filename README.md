@@ -103,6 +103,7 @@
 
 ## Go 
 
+- [jSherz/terraform-provider-node-lambda-packager](https://github.com/jSherz/terraform-provider-node-lambda-packager) - Bundles your Lambda code and zips it up ready to feed into aws_lambda_function.
 - [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
@@ -381,6 +382,7 @@
 
 ## TypeScript 
 
+- [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
 - [jSherz/automate-aws-access-removal](https://github.com/jSherz/automate-aws-access-removal) - Immediately block users from your AWS organization when they're disabled or removed in Identity Center.
 - [aws-samples/aws-iam-identity-center-extensions](https://github.com/aws-samples/aws-iam-identity-center-extensions) - This solution is intended for enterprises that need a streamlined way of managing user access to their AWS accounts. Using this solution, your identity and access management teams can extend AWS SSO f
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
