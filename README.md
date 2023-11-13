@@ -104,6 +104,8 @@
 
 ## Go 
 
+- [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
+- [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [jSherz/terraform-provider-node-lambda-packager](https://github.com/jSherz/terraform-provider-node-lambda-packager) - Bundles your Lambda code and zips it up ready to feed into aws_lambda_function.
 - [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.
@@ -182,6 +184,7 @@
 
 ## JavaScript 
 
+- [WebDevSimplified/Learn-GraphQL](https://github.com/WebDevSimplified/Learn-GraphQL) - 
 - [jhinch/nginx-linter](https://github.com/jhinch/nginx-linter) - 
 - [aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team) - Open-source temporary elevated access solution for AWS IAM Identity Center.
 - [rpolak/node-easy-notes-app](https://github.com/rpolak/node-easy-notes-app) - A simple Note-Taking app built using Node.js, Express and Mongoose
@@ -265,6 +268,7 @@
 
 ## Python 
 
+- [aegirhall/console-menu](https://github.com/aegirhall/console-menu) - A simple Python menu system for building terminal user interfaces.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [probnot/wpg-weatherchan](https://github.com/probnot/wpg-weatherchan) - This creates the old-school looking weather channel that was common on Winnipeg cable TV into the 1990s.
 - [ooiyeefei/aws-iam-identity-center-permission-policies-analyzer](https://github.com/ooiyeefei/aws-iam-identity-center-permission-policies-analyzer) - This solution uses AWS SDKs to automate the analysis of all users in AWS Identity Center (previously AWS SSO) and retrieve the attached permission policies (Inline, AWS Managed, Customer Managed) base
@@ -358,7 +362,7 @@
 - [fetep/expressvpn-proxy](https://github.com/fetep/expressvpn-proxy) - expressvpn proxy in a container
 - [guessi/kubernetes-dnsperf](https://github.com/guessi/kubernetes-dnsperf) - DNS Performance Testing with Kubernetes Pods
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
-- [metal3d/docker-xmrig](https://github.com/metal3d/docker-xmrig) - Xmrig dockerized to mine monero cryptocurrency
+- [metal3d/docker-xmrig](https://github.com/metal3d/docker-xmrig) - Xmrig containeried to mine monero cryptocurrency
 - [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
 - [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) - 
 - [dweomer/dockerfiles-stunnel](https://github.com/dweomer/dockerfiles-stunnel) - secure services with stunnel
@@ -389,6 +393,7 @@
 
 ## TypeScript 
 
+- [nestjs/graphql](https://github.com/nestjs/graphql) - GraphQL (TypeScript) module for Nest framework (node.js) 🍷
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
 - [aws/awsui-documentation](https://github.com/aws/awsui-documentation) - Information on how to get started using AWS UI components
 - [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
