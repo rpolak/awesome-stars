@@ -98,7 +98,7 @@
 ## Dockerfile 
 
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
-- [Ilshidur/tor-relay-docker](https://github.com/Ilshidur/tor-relay-docker) - 🐋 Lightweight TOR relay image (14.99 MB), based on LinuxServer.io Alpine Linux.
+- [Ilshidur/tor-relay-docker](https://github.com/Ilshidur/tor-relay-docker) - 🐋 Lightweight TOR relay image (15.04 MB), based on LinuxServer.io Alpine Linux.
 - [mtoensing/Docker-Minecraft-PaperMC-Server](https://github.com/mtoensing/Docker-Minecraft-PaperMC-Server) - Starts a Minecraft PaperMC server
 - [FoldingAtHome/containers](https://github.com/FoldingAtHome/containers) - Docker containers for easily launching the Folding@home client anywhere!
 - [Praqma/Network-MultiTool](https://github.com/Praqma/Network-MultiTool) - Multi-arch multitool for container network troubleshooting.
@@ -190,6 +190,7 @@
 
 ## JavaScript 
 
+- [eez-open/studio](https://github.com/eez-open/studio) - Cross-platform low-code GUI and automation
 - [WebDevSimplified/Learn-GraphQL](https://github.com/WebDevSimplified/Learn-GraphQL) - 
 - [jhinch/nginx-linter](https://github.com/jhinch/nginx-linter) - 
 - [aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team) - Open-source temporary elevated access solution for AWS IAM Identity Center.
@@ -238,6 +239,7 @@
 
 ## Others 
 
+- [eez-open/psu-hw](https://github.com/eez-open/psu-hw) - EEZ H24005 programmable bench power supply (powered by Arduino Due)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
