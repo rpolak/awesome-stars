@@ -77,6 +77,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [monero](#monero)
 - [mongodb](#mongodb)
@@ -553,6 +554,7 @@
 
 ## kubernetes 
 
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes
@@ -606,6 +608,10 @@
 ## markdown 
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
+
+## microsoft 
+
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## minecraft 
 
@@ -680,6 +686,7 @@
 
 ## others 
 
+- [bkahlert/kill-zscaler](https://github.com/bkahlert/kill-zscaler) - Kill Zscaler without password or jail Zscaler in a virtual machine
 - [eez-open/studio](https://github.com/eez-open/studio) - Cross-platform low-code GUI and automation
 - [eez-open/psu-hw](https://github.com/eez-open/psu-hw) - EEZ H24005 programmable bench power supply (powered by Arduino Due)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
@@ -687,7 +694,6 @@
 - [WebDevSimplified/Learn-GraphQL](https://github.com/WebDevSimplified/Learn-GraphQL) - 
 - [aws/awsui-documentation](https://github.com/aws/awsui-documentation) - Information on how to get started using AWS UI components
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
-- [jjustman/libatsc3](https://github.com/jjustman/libatsc3) - ATSC 3.0 NGBP Open Source Library and Android/AppleTV Samples - Supporting MMT and ROUTE/DASH, along with NRT data delivery services and many of the A/300 set of NextGen broadcast specifications for m
 - [probnot/wpg-weatherchan](https://github.com/probnot/wpg-weatherchan) - This creates the old-school looking weather channel that was common on Winnipeg cable TV into the 1990s.
 - [jhinch/nginx-linter](https://github.com/jhinch/nginx-linter) - 
 - [jSherz/terraform-provider-node-lambda-packager](https://github.com/jSherz/terraform-provider-node-lambda-packager) - Bundles your Lambda code and zips it up ready to feed into aws_lambda_function.
