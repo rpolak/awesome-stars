@@ -101,6 +101,7 @@
 - [postgresql](#postgresql)
 - [privacy](#privacy)
 - [programming](#programming)
+- [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
 - [rails](#rails)
@@ -135,7 +136,7 @@
 
 ## ai 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
 - [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Automatically review and improve your Python code. ⭐ this repo and Sourcery Starbot will send you a PR. Or install our CLI to improve your code locally
 
 ## analytics 
@@ -169,6 +170,7 @@
 
 ## automation 
 
+- [cyrus-and/chrome-har-capturer](https://github.com/cyrus-and/chrome-har-capturer) - Capture HAR files from a Chrome instance
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [pycontribs/jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python API for accessing resources and configuring Hudson & Jenkins continuous-integration servers
@@ -236,7 +238,7 @@
 
 ## chatgpt 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
 - [darrenoakey/alter](https://github.com/darrenoakey/alter) - a script that uses ai to change files on your machine
 
 ## chrome 
@@ -358,7 +360,7 @@
 
 ## emacs 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
 
 ## ember 
 
@@ -607,7 +609,7 @@
 
 ## markdown 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
 
 ## microsoft 
 
@@ -686,6 +688,7 @@
 
 ## others 
 
+- [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [bkahlert/kill-zscaler](https://github.com/bkahlert/kill-zscaler) - Kill Zscaler without password or jail Zscaler in a virtual machine
 - [eez-open/studio](https://github.com/eez-open/studio) - Cross-platform low-code GUI and automation
 - [eez-open/psu-hw](https://github.com/eez-open/psu-hw) - EEZ H24005 programmable bench power supply (powered by Arduino Due)
@@ -864,6 +867,10 @@
 
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 
+## pwa 
+
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
+
 ## python 
 
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
@@ -958,6 +965,7 @@
 
 ## self-hosted 
 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [Chatcola-com/chatcola](https://github.com/Chatcola-com/chatcola) - chatcola.com messaging server - self-host your messages without multi-domain nightmare!
 - [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
