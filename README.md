@@ -79,6 +79,7 @@
 
 ## C++ 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
@@ -110,7 +111,6 @@
 
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -223,7 +223,7 @@
 - [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [callicoder/node-easy-notes-app](https://github.com/callicoder/node-easy-notes-app) - A simple Note-Taking app built using Node.js, Express and Mongoose
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
 - [openstf/stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser.
 - [graphite-project/graphite-web](https://github.com/graphite-project/graphite-web) - A highly scalable real-time graphing system
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
@@ -288,6 +288,8 @@
 
 ## Python 
 
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [openworm/OpenWorm](https://github.com/openworm/OpenWorm) - Repository for the main Dockerfile with the OpenWorm software stack and project-wide issues
 - [NESCAU-UFLA/FuzzingTool](https://github.com/NESCAU-UFLA/FuzzingTool) - Software for fuzzing, used on web application pentestings.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
