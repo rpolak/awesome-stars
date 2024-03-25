@@ -454,7 +454,6 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 
 ## golang 
@@ -721,6 +720,9 @@
 
 ## others 
 
+- [cecio/USBvalve](https://github.com/cecio/USBvalve) - Expose USB activity on the fly
+- [port-labs/template-assets](https://github.com/port-labs/template-assets) - This repository holds Port's template assets. This includes:
+- [leafcloudhq/echoip](https://github.com/leafcloudhq/echoip) - IP address lookup service
 - [openworm/OpenWorm](https://github.com/openworm/OpenWorm) - Repository for the main Dockerfile with the OpenWorm software stack and project-wide issues
 - [ligurio/awesome-openbsd](https://github.com/ligurio/awesome-openbsd) - A curated list of awesome OpenBSD resources
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
@@ -791,7 +793,7 @@
 - [serverlesspub/imagemagick-aws-lambda-2](https://github.com/serverlesspub/imagemagick-aws-lambda-2) - ImageMagick for AWS Lambda 2 runtimes
 - [dweomer/dockerfiles-stunnel](https://github.com/dweomer/dockerfiles-stunnel) - secure services with stunnel
 - [ethereum/trinity](https://github.com/ethereum/trinity) - The Trinity client for the Ethereum network
-- [terraform-community-modules/tf_aws_elasticache_redis](https://github.com/terraform-community-modules/tf_aws_elasticache_redis) - Terraform module which creates AWS Elasticache Redis resources
+- [terraform-community-modules/tf_aws_elasticache_redis](https://github.com/terraform-community-modules/tf_aws_elasticache_redis) - [DEPRECATED] Use https://github.com/terraform-aws-modules/terraform-aws-elasticache
 - [newrelic/nr1-learn-nrql](https://github.com/newrelic/nr1-learn-nrql) - NR1 learn NRQL helps New Relic Customers quickly learn our custom query language - NRQL
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [vultr/vultr-node](https://github.com/vultr/vultr-node) - Vultr Node API client
