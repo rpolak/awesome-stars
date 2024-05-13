@@ -252,6 +252,7 @@
 
 ## Others 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ligurio/awesome-openbsd](https://github.com/ligurio/awesome-openbsd) - A curated list of awesome OpenBSD resources
 - [eez-open/psu-hw](https://github.com/eez-open/psu-hw) - EEZ H24005 programmable bench power supply (powered by Arduino Due)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
