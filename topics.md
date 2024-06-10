@@ -377,6 +377,7 @@
 
 ## documentation 
 
+- [port-labs/port-docs](https://github.com/port-labs/port-docs) - The open-source repo for docs.getport.io
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
 ## education 
@@ -744,6 +745,8 @@
 
 ## others 
 
+- [port-labs/terraform-provider-port-labs](https://github.com/port-labs/terraform-provider-port-labs) - Port Terraform Provider
+- [port-labs/ocean](https://github.com/port-labs/ocean) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key feature
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [aws-samples/cloudfront-cmcd-realtime-dashboard](https://github.com/aws-samples/cloudfront-cmcd-realtime-dashboard) - A sample solution for building a dashboard in Grafana for CloudFront logs enriched with CMCD metrics.
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
