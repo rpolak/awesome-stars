@@ -179,7 +179,7 @@
 - [hashicorp/learn-consul-kubernetes](https://github.com/hashicorp/learn-consul-kubernetes) - 
 - [terraform-community-modules/tf_aws_elasticache_redis](https://github.com/terraform-community-modules/tf_aws_elasticache_redis) - [DEPRECATED] Use https://github.com/terraform-aws-modules/terraform-aws-elasticache
 - [dod-iac/terraform-aws-lambda-edge-function](https://github.com/dod-iac/terraform-aws-lambda-edge-function) - AWS Lambda Function for use with Lambda@Edge
-- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦
+- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [jgreat/tf-rancher-2.0](https://github.com/jgreat/tf-rancher-2.0) - Some sample terraform to launch rancher 2.0 server.
 - [rancher/quickstart](https://github.com/rancher/quickstart) - 
 
@@ -278,6 +278,7 @@
 
 ## PHP 
 
+- [Cacti/cacti](https://github.com/Cacti/cacti) - Cacti ™
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
@@ -437,6 +438,7 @@
 
 ## TypeScript 
 
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
