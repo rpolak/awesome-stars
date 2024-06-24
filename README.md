@@ -302,6 +302,8 @@
 
 ## Python 
 
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [aws-samples/serverless-ui-testing-using-selenium](https://github.com/aws-samples/serverless-ui-testing-using-selenium) - 
 - [port-labs/ocean](https://github.com/port-labs/ocean) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key feature
 - [mhassell/gqrx_scan](https://github.com/mhassell/gqrx_scan) - a scanner for gqrx!
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
@@ -405,7 +407,7 @@
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [fetep/expressvpn-proxy](https://github.com/fetep/expressvpn-proxy) - expressvpn proxy in a container
-- [guessi/kubernetes-dnsperf](https://github.com/guessi/kubernetes-dnsperf) - DNS Performance Testing with Kubernetes Pods
+- [guessi/dnsperf-bench](https://github.com/guessi/dnsperf-bench) - DNS Performance Testing with Kubernetes Pods
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [metal3d/docker-xmrig](https://github.com/metal3d/docker-xmrig) - Xmrig containeried to mine monero cryptocurrency
 - [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
