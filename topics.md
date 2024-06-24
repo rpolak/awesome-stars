@@ -72,6 +72,7 @@
 - [html5](#html5)
 - [http](#http)
 - [ios](#ios)
+- [iot](#iot)
 - [ipfs](#ipfs)
 - [java](#java)
 - [javascript](#javascript)
@@ -114,6 +115,7 @@
 - [qt](#qt)
 - [quantitative-finance](#quantitative-finance)
 - [rails](#rails)
+- [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
@@ -372,7 +374,7 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
-- [guessi/kubernetes-dnsperf](https://github.com/guessi/kubernetes-dnsperf) - DNS Performance Testing with Kubernetes Pods
+- [guessi/dnsperf-bench](https://github.com/guessi/dnsperf-bench) - DNS Performance Testing with Kubernetes Pods
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
 - [etclabscore/core-geth](https://github.com/etclabscore/core-geth) - A highly configurable Go implementation of the Ethereum protocol.
@@ -511,6 +513,7 @@
 
 ## hacktoberfest 
 
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -577,6 +580,10 @@
 - [libimobiledevice/ideviceinstaller](https://github.com/libimobiledevice/ideviceinstaller) - Manage apps of iOS devices
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
+## iot 
+
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+
 ## ipfs 
 
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
@@ -624,7 +631,7 @@
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-- [guessi/kubernetes-dnsperf](https://github.com/guessi/kubernetes-dnsperf) - DNS Performance Testing with Kubernetes Pods
+- [guessi/dnsperf-bench](https://github.com/guessi/dnsperf-bench) - DNS Performance Testing with Kubernetes Pods
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
@@ -764,6 +771,7 @@
 
 ## others 
 
+- [aws-samples/serverless-ui-testing-using-selenium](https://github.com/aws-samples/serverless-ui-testing-using-selenium) - 
 - [port-labs/terraform-provider-port-labs](https://github.com/port-labs/terraform-provider-port-labs) - Port Terraform Provider
 - [port-labs/ocean](https://github.com/port-labs/ocean) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key feature
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
@@ -960,6 +968,7 @@
 
 ## python 
 
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [mhassell/gqrx_scan](https://github.com/mhassell/gqrx_scan) - a scanner for gqrx!
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
@@ -1024,6 +1033,10 @@
 ## rails 
 
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
+## raspberry-pi 
+
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ## react 
 
