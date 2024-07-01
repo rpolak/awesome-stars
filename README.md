@@ -121,7 +121,7 @@
 - [leafcloudhq/echoip](https://github.com/leafcloudhq/echoip) - IP address lookup service
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -171,6 +171,7 @@
 
 ## HCL 
 
+- [terraform-aws-modules/terraform-aws-step-functions](https://github.com/terraform-aws-modules/terraform-aws-step-functions) - Terraform module to create AWS Step Functions 🇺🇦
 - [aws-samples/cloudfront-cmcd-realtime-dashboard](https://github.com/aws-samples/cloudfront-cmcd-realtime-dashboard) - A sample solution for building a dashboard in Grafana for CloudFront logs enriched with CMCD metrics.
 - [port-labs/template-assets](https://github.com/port-labs/template-assets) - This repository holds Port's template assets. This includes:
 - [100daysofdevops/100daysofdevops](https://github.com/100daysofdevops/100daysofdevops) - 
@@ -195,6 +196,8 @@
 
 ## Java 
 
+- [aws-samples/opensearch-bootful](https://github.com/aws-samples/opensearch-bootful) - SpringBoot OpenSearch Integration examples
+- [M-Razavi/Spring-Data-OpenSearch-Example](https://github.com/M-Razavi/Spring-Data-OpenSearch-Example) - 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [apache/jmeter](https://github.com/apache/jmeter) - Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
