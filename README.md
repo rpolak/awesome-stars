@@ -115,6 +115,8 @@
 
 ## Go 
 
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [dockerce/docker-slim](https://github.com/dockerce/docker-slim) - DockerSlim (docker-slim): Optimize and secure your Docker containers (free and open source)
 - [hashicorp/terraform-provider-kubernetes](https://github.com/hashicorp/terraform-provider-kubernetes) - Terraform Kubernetes provider
 - [port-labs/terraform-provider-port-labs](https://github.com/port-labs/terraform-provider-port-labs) - Port Terraform Provider
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
@@ -248,6 +250,7 @@
 
 ## Jupyter Notebook 
 
+- [evankanderson/repeatable-ai-2024](https://github.com/evankanderson/repeatable-ai-2024) - Example for a talk on repeatable data science using PyTorch as an example
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
 
@@ -313,7 +316,7 @@
 - [port-labs/ocean](https://github.com/port-labs/ocean) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key feature
 - [mhassell/gqrx_scan](https://github.com/mhassell/gqrx_scan) - a scanner for gqrx!
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [openworm/OpenWorm](https://github.com/openworm/OpenWorm) - Repository for the main Dockerfile with the OpenWorm software stack and project-wide issues
 - [NESCAU-UFLA/FuzzingTool](https://github.com/NESCAU-UFLA/FuzzingTool) - Software for fuzzing, used on web application pentestings.
@@ -357,7 +360,7 @@
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 - [zotroneneis/magical_universe](https://github.com/zotroneneis/magical_universe) - Awesome Python features explained using the world of magic
 - [thiezn/iperf3-python](https://github.com/thiezn/iperf3-python) - Python wrapper around iperf3
-- [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versi
+- [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our vers
 - [xiaocong/uiautomator](https://github.com/xiaocong/uiautomator) - Python wrapper of Android uiautomator test tool.
 - [kyan001/ping3](https://github.com/kyan001/ping3) - Pure Python3 version of ICMP ping, shipped with command-line command.
 - [ionelmc/python-hunter](https://github.com/ionelmc/python-hunter) - Hunter is a flexible code tracing toolkit.
