@@ -19,6 +19,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
+- [Mustache](#mustache)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -81,6 +82,7 @@
 
 ## C++ 
 
+- [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
@@ -107,7 +109,6 @@
 ## Dockerfile 
 
 - [Ilshidur/tor-relay-docker](https://github.com/Ilshidur/tor-relay-docker) - 🐋 Lightweight TOR relay image (15.04 MB), based on LinuxServer.io Alpine Linux.
-- [mtoensing/Docker-Minecraft-PaperMC-Server](https://github.com/mtoensing/Docker-Minecraft-PaperMC-Server) - Starts a Minecraft PaperMC server
 - [FoldingAtHome/containers](https://github.com/FoldingAtHome/containers) - Docker containers for easily launching the Folding@home client anywhere!
 - [Praqma/Network-MultiTool](https://github.com/Praqma/Network-MultiTool) - Multi-arch multitool for container network troubleshooting.
 - [cagataygurturk/docker-ssh-tunnel](https://github.com/cagataygurturk/docker-ssh-tunnel) - Simple SSH tunnel with Docker
@@ -259,6 +260,10 @@
 - [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at https://gitlab.com/buildroot.org/buildroot/. Do not open issu
 - [freebsd/freebsd-ports](https://github.com/freebsd/freebsd-ports) - FreeBSD ports tree (read-only mirror)
 
+## Mustache 
+
+- [ProxySQL/kubernetes](https://github.com/ProxySQL/kubernetes) - Helm Charts for ProxySQL on K8s
+
 ## Objective-C 
 
 - [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
@@ -312,6 +317,7 @@
 
 ## Python 
 
+- [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [aws-samples/serverless-ui-testing-using-selenium](https://github.com/aws-samples/serverless-ui-testing-using-selenium) - 
 - [port-labs/ocean](https://github.com/port-labs/ocean) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key feature
@@ -421,6 +427,7 @@
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [fetep/expressvpn-proxy](https://github.com/fetep/expressvpn-proxy) - expressvpn proxy in a container
 - [guessi/dnsperf-bench](https://github.com/guessi/dnsperf-bench) - DNS Performance Testing with Kubernetes Pods
+- [mtoensing/Docker-Minecraft-PaperMC-Server](https://github.com/mtoensing/Docker-Minecraft-PaperMC-Server) - Starts a Minecraft PaperMC server
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [metal3d/docker-xmrig](https://github.com/metal3d/docker-xmrig) - Xmrig containeried to mine monero cryptocurrency
 - [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
