@@ -204,6 +204,7 @@
 
 ## Java 
 
+- [confluentinc/kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples) - Demo applications and code examples for Apache Kafka's Streams API.
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [aws-samples/opensearch-bootful](https://github.com/aws-samples/opensearch-bootful) - SpringBoot OpenSearch Integration examples
 - [M-Razavi/Spring-Data-OpenSearch-Example](https://github.com/M-Razavi/Spring-Data-OpenSearch-Example) - 
@@ -278,6 +279,7 @@
 
 ## Others 
 
+- [InternalDeveloperPlatform/Platform-Engineering-Community](https://github.com/InternalDeveloperPlatform/Platform-Engineering-Community) - A place for the Platform Engineering Community Guidelines and Code of Conduct.
 - [corelight/zeek-cheatsheets](https://github.com/corelight/zeek-cheatsheets) - Zeek Log Cheatsheets
 - [SummitRoute/aws_breaking_changes](https://github.com/SummitRoute/aws_breaking_changes) - List of changes announced for AWS that may break existing code
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
