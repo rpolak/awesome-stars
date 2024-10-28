@@ -31,6 +31,7 @@
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Solidity](#solidity)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -116,6 +117,7 @@
 
 ## Go 
 
+- [Files-com/files-cli](https://github.com/Files-com/files-cli) - Files.com Command Line App for Windows, Linux, and macOS. Files.com is Cloud Storage, Cloud Gateway, and MFT, All In One. Our built-in storage is fast, affordable, and available in 7 Worldwide Regions
 - [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is an open-source framework for building platforms
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [dockerce/docker-slim](https://github.com/dockerce/docker-slim) - DockerSlim (docker-slim): Optimize and secure your Docker containers (free and open source)
@@ -235,7 +237,6 @@
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [paulnank/nankervis-pdp11-js](https://github.com/paulnank/nankervis-pdp11-js) - PDP 11/70 and PDP 11/45 emulator in Javascript
 - [serverlesspub/imagemagick-aws-lambda-2](https://github.com/serverlesspub/imagemagick-aws-lambda-2) - ImageMagick for AWS Lambda 2 runtimes
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
@@ -325,6 +326,10 @@
 
 ## Python 
 
+- [rpolak/pygmy-url-shortener](https://github.com/rpolak/pygmy-url-shortener) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
+- [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
+- [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [secynic/ipwhois](https://github.com/secynic/ipwhois) - Retrieve and parse whois data for IPv4 and IPv6 addresses
@@ -339,7 +344,7 @@
 - [openworm/OpenWorm](https://github.com/openworm/OpenWorm) - Repository for the main Dockerfile with the OpenWorm software stack and project-wide issues
 - [NESCAU-UFLA/FuzzingTool](https://github.com/NESCAU-UFLA/FuzzingTool) - Software for fuzzing, used on web application pentestings.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Open and self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Access from web, obsidian, emacs,
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Build custom agents, personalized automati
 - [aegirhall/console-menu](https://github.com/aegirhall/console-menu) - A simple Python menu system for building terminal user interfaces.
 - [probnot/wpg-weatherchan](https://github.com/probnot/wpg-weatherchan) - This creates the old-school looking weather channel that was common on Winnipeg cable TV into the 1990s.
 - [ooiyeefei/aws-iam-identity-center-permission-policies-analyzer](https://github.com/ooiyeefei/aws-iam-identity-center-permission-policies-analyzer) - This solution uses AWS SDKs to automate the analysis of all users in AWS Identity Center (previously AWS SSO) and retrieve the attached permission policies (Inline, AWS Managed, Customer Managed) base
@@ -445,7 +450,7 @@
 - [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) - 
 - [dweomer/dockerfiles-stunnel](https://github.com/dweomer/dockerfiles-stunnel) - secure services with stunnel
 - [confluentinc/examples](https://github.com/confluentinc/examples) - Apache Kafka and Confluent Platform examples and demos
-- [confluentinc/demo-scene](https://github.com/confluentinc/demo-scene) - 👾Scripts and samples to support Confluent Demos and Talks. ⚠️Might be rough around the edges ;-) 👉For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/
+- [confluentinc/demo-scene](https://github.com/confluentinc/demo-scene) - 👾Scripts and samples to support Confluent Demos and Talks up until Oct '24. ⚠️ No longer maintained 👉For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/
 - [hashicorp/docker-hub-images](https://github.com/hashicorp/docker-hub-images) - Automatic builds of container images for Docker Hub
 - [IBM-Cloud/ibm-cloud-developer-tools](https://github.com/IBM-Cloud/ibm-cloud-developer-tools) - Installation scripts for new IBM Cloud Developer CLI Plugin and it's dependencies.
 - [Odania-IT/aws-kubectl](https://github.com/Odania-IT/aws-kubectl) - 
@@ -459,6 +464,10 @@
 - [freebsd/poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
 - [bobthecow/git-flow-completion](https://github.com/bobthecow/git-flow-completion) - Bash, Zsh and fish completion support for git-flow.
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
+
+## Solidity 
+
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 
 ## Svelte 
 
