@@ -237,7 +237,7 @@
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-- [paulnank/nankervis-pdp11-js](https://github.com/paulnank/nankervis-pdp11-js) - PDP 11/70 and PDP 11/45 emulator in Javascript
+- [paulnank/pdp11-js](https://github.com/paulnank/pdp11-js) - PDP 11/70 and PDP 11/45 emulator in Javascript
 - [serverlesspub/imagemagick-aws-lambda-2](https://github.com/serverlesspub/imagemagick-aws-lambda-2) - ImageMagick for AWS Lambda 2 runtimes
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [newrelic/nr1-learn-nrql](https://github.com/newrelic/nr1-learn-nrql) - NR1 learn NRQL helps New Relic Customers quickly learn our custom query language - NRQL
@@ -326,6 +326,7 @@
 
 ## Python 
 
+- [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [rpolak/pygmy-url-shortener](https://github.com/rpolak/pygmy-url-shortener) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
