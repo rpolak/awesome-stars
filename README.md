@@ -120,6 +120,8 @@
 
 ## Go 
 
+- [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [Files-com/files-cli](https://github.com/Files-com/files-cli) - Files.com Command Line App for Windows, Linux, and macOS. Files.com is Cloud Storage, Cloud Gateway, and MFT, All In One. Our built-in storage is fast, affordable, and available in 7 Worldwide Regions
 - [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is an open-source framework for building platforms
@@ -200,6 +202,7 @@
 
 ## HTML 
 
+- [georgyo/ifconfig.io](https://github.com/georgyo/ifconfig.io) - 
 - [ACloudGuru-Resources/Course-Certified-Solutions-Architect-Associate](https://github.com/ACloudGuru-Resources/Course-Certified-Solutions-Architect-Associate) - AWS Certified Solutions Architect - Associate
 - [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser
 - [freebsd/freebsd-doc](https://github.com/freebsd/freebsd-doc) - FreeBSD doc tree (read-only mirror)
