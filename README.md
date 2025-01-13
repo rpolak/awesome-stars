@@ -85,6 +85,7 @@
 
 ## C++ 
 
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [minetest/minetest](https://github.com/minetest/minetest) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
@@ -136,7 +137,7 @@
 - [leafcloudhq/echoip](https://github.com/leafcloudhq/echoip) - IP address lookup service
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -168,7 +169,7 @@
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [vultr/vultr-cli](https://github.com/vultr/vultr-cli) - Official command line tool for Vultr services
 - [IBM-Cloud/terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for powering real-time use cases
+- [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [hashicorp/consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.
@@ -213,6 +214,7 @@
 
 ## Java 
 
+- [WebJournal/journaldev](https://github.com/WebJournal/journaldev) - JournalDev Projects
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [confluentinc/kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples) - Demo applications and code examples for Apache Kafka's Streams API.
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
@@ -294,6 +296,7 @@
 
 ## Others 
 
+- [spamegg1/abstract-thinking](https://github.com/spamegg1/abstract-thinking) - Abstract thinking patterns and problem decomposition / solving strategies
 - [InternalDeveloperPlatform/Platform-Engineering-Community](https://github.com/InternalDeveloperPlatform/Platform-Engineering-Community) - A place for the Platform Engineering Community Guidelines and Code of Conduct.
 - [corelight/zeek-cheatsheets](https://github.com/corelight/zeek-cheatsheets) - Zeek Log Cheatsheets
 - [SummitRoute/aws_breaking_changes](https://github.com/SummitRoute/aws_breaking_changes) - List of changes announced for AWS that may break existing code
@@ -487,6 +490,7 @@
 
 ## Solidity 
 
+- [thrackle-io/forte-rules-engine](https://github.com/thrackle-io/forte-rules-engine) - Rules engine implementation in Solidity
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 
 ## Swift 
@@ -497,6 +501,7 @@
 
 ## TypeScript 
 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [RabbyHub/Rabby](https://github.com/RabbyHub/Rabby) - The game-changing wallet for Ethereum and all EVM chains
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
