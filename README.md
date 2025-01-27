@@ -86,7 +86,7 @@
 ## C++ 
 
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
-- [minetest/minetest](https://github.com/minetest/minetest) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
+- [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
@@ -463,7 +463,7 @@
 
 - [vfarcic/crossplane-tutorial](https://github.com/vfarcic/crossplane-tutorial) - 
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [we-are-mono/filesystem](https://github.com/we-are-mono/filesystem) - The OS foundation for our upcoming router
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [bkahlert/kill-zscaler](https://github.com/bkahlert/kill-zscaler) - Kill Zscaler without password or jail Zscaler in a virtual machine
