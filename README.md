@@ -114,7 +114,8 @@
 
 ## Dockerfile 
 
-- [Ilshidur/tor-relay-docker](https://github.com/Ilshidur/tor-relay-docker) - 🐋 Lightweight TOR relay image (15.04 MB), based on LinuxServer.io Alpine Linux.
+- [guessi/dnsperf-bench](https://github.com/guessi/dnsperf-bench) - DNS Performance Testing with Kubernetes Pods
+- [Ilshidur/tor-relay-docker](https://github.com/Ilshidur/tor-relay-docker) - 🐋 Lightweight TOR relay image (17.41 MB), based on LinuxServer.io Alpine Linux.
 - [FoldingAtHome/containers](https://github.com/FoldingAtHome/containers) - Docker containers for easily launching the Folding@home client anywhere!
 - [Praqma/Network-MultiTool](https://github.com/Praqma/Network-MultiTool) - Multi-arch multitool for container network troubleshooting.
 - [cagataygurturk/docker-ssh-tunnel](https://github.com/cagataygurturk/docker-ssh-tunnel) - Simple SSH tunnel with Docker
@@ -122,6 +123,10 @@
 
 ## Go 
 
+- [a8m/envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
+- [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [ethereumclassic/core-geth](https://github.com/ethereumclassic/core-geth) - A highly configurable Go implementation of the Ethereum protocol.
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [Mikescher/better-docker-ps](https://github.com/Mikescher/better-docker-ps) - Because `docker ps` is annoying and does not fit my monitor/terminal width
@@ -195,6 +200,7 @@
 
 ## HCL 
 
+- [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
 - [terraform-aws-modules/terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module to create AWS IAM resources 🇺🇦
 - [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Terraform module to create AWS VPC resources 🇺🇦
 - [terraform-aws-modules/terraform-aws-ecr](https://github.com/terraform-aws-modules/terraform-aws-ecr) - Terraform module to create AWS ECR resources 🇺🇦
@@ -295,6 +301,7 @@
 
 ## Mustache 
 
+- [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [ProxySQL/kubernetes](https://github.com/ProxySQL/kubernetes) - Helm Charts for ProxySQL on K8s
 
 ## Objective-C 
@@ -321,7 +328,7 @@
 - [rpolak/awesome-stars](https://github.com/rpolak/awesome-stars) - My Awesome List
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [trexminer/T-Rex](https://github.com/trexminer/T-Rex) - T-Rex NVIDIA GPU miner with web control monitoring page
 - [todxx/teamredminer](https://github.com/todxx/teamredminer) - AMD GPU Optimized Cryptocurrency Miner
@@ -458,6 +465,7 @@
 
 ## Rust 
 
+- [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
 - [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge) - Information useful to people contributing to Rust
@@ -479,7 +487,6 @@
 - [bkahlert/kill-zscaler](https://github.com/bkahlert/kill-zscaler) - Kill Zscaler without password or jail Zscaler in a virtual machine
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [fetep/expressvpn-proxy](https://github.com/fetep/expressvpn-proxy) - expressvpn proxy in a container
-- [guessi/dnsperf-bench](https://github.com/guessi/dnsperf-bench) - DNS Performance Testing with Kubernetes Pods
 - [mtoensing/Docker-Minecraft-PaperMC-Server](https://github.com/mtoensing/Docker-Minecraft-PaperMC-Server) - Starts a Minecraft PaperMC server
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [metal3d/docker-xmrig](https://github.com/metal3d/docker-xmrig) - Xmrig containeried to mine monero cryptocurrency
@@ -516,6 +523,7 @@
 
 ## TypeScript 
 
+- [graphprotocol/contracts](https://github.com/graphprotocol/contracts) - Contracts repository for The Graph protocol
 - [Uniswap/v3-core](https://github.com/Uniswap/v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
 - [wevm/wagmi](https://github.com/wevm/wagmi) - Reactive primitives for Ethereum apps
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
