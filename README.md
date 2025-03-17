@@ -125,6 +125,7 @@
 
 ## Go 
 
+- [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
@@ -156,7 +157,7 @@
 - [leafcloudhq/echoip](https://github.com/leafcloudhq/echoip) - IP address lookup service
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
