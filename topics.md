@@ -207,6 +207,7 @@
 
 ## api 
 
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [digitalocean/pydo](https://github.com/digitalocean/pydo) - Official DigitalOcean Python Client based on the DO OpenAPIv3 specification
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [radarlabs/api-diff](https://github.com/radarlabs/api-diff) - A command line tool for diffing json rest APIs
@@ -242,6 +243,7 @@
 
 ## aws 
 
+- [aws-ia/terraform-aws-eks-blueprints-addons](https://github.com/aws-ia/terraform-aws-eks-blueprints-addons) - Terraform module which provisions addons on Amazon EKS clusters
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
 - [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
@@ -293,6 +295,7 @@
 
 ## c 
 
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
@@ -327,6 +330,7 @@
 
 ## cli 
 
+- [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [newrelic/newrelic-cli](https://github.com/newrelic/newrelic-cli) - The New Relic Command Line Interface
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -507,6 +511,7 @@
 
 ## ethereum 
 
+- [Picodes/4naly3er](https://github.com/Picodes/4naly3er) - Static smart contract code 4naly3er
 - [graphprotocol/contracts](https://github.com/graphprotocol/contracts) - Contracts repository for The Graph protocol
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
@@ -764,6 +769,8 @@
 
 ## kubernetes 
 
+- [aws-ia/terraform-aws-eks-blueprints-addons](https://github.com/aws-ia/terraform-aws-eks-blueprints-addons) - Terraform module which provisions addons on Amazon EKS clusters
+- [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
@@ -838,6 +845,7 @@
 
 ## lua 
 
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 
 ## machine-learning 
@@ -897,6 +905,7 @@
 
 ## neovim 
 
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
 ## nestjs 
@@ -960,6 +969,7 @@
 
 ## others 
 
+- [crossplane/function-template-python](https://github.com/crossplane/function-template-python) - A template for writing a composition function in Python
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [rpolak/hello-dagger](https://github.com/rpolak/hello-dagger) - Dagger Quickstart - Example Application
@@ -1199,6 +1209,8 @@
 
 ## python 
 
+- [pypa/pip](https://github.com/pypa/pip) - The Python package installer
+- [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [WebJournal/journaldev](https://github.com/WebJournal/journaldev) - JournalDev Projects
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
@@ -1327,6 +1339,7 @@
 
 ## security 
 
+- [Picodes/4naly3er](https://github.com/Picodes/4naly3er) - Static smart contract code 4naly3er
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
@@ -1385,6 +1398,7 @@
 
 ## solidity 
 
+- [Picodes/4naly3er](https://github.com/Picodes/4naly3er) - Static smart contract code 4naly3er
 - [graphprotocol/contracts](https://github.com/graphprotocol/contracts) - Contracts repository for The Graph protocol
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
@@ -1440,6 +1454,7 @@
 
 ## terraform 
 
+- [aws-ia/terraform-aws-eks-blueprints-addons](https://github.com/aws-ia/terraform-aws-eks-blueprints-addons) - Terraform module which provisions addons on Amazon EKS clusters
 - [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
 - [terraform-aws-modules/terraform-aws-ecr](https://github.com/terraform-aws-modules/terraform-aws-ecr) - Terraform module to create AWS ECR resources 🇺🇦
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
@@ -1476,6 +1491,7 @@
 
 ## vim 
 
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
 ## visual-studio-code 
