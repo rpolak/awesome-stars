@@ -34,6 +34,7 @@
 - [Solidity](#solidity)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## Batchfile 
@@ -125,6 +126,7 @@
 
 ## Go 
 
+- [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -207,6 +209,7 @@
 
 ## HCL 
 
+- [aws-ia/terraform-aws-eks-blueprints-addons](https://github.com/aws-ia/terraform-aws-eks-blueprints-addons) - Terraform module which provisions addons on Amazon EKS clusters
 - [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
 - [terraform-aws-modules/terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module to create AWS IAM resources 🇺🇦
 - [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Terraform module to create AWS VPC resources 🇺🇦
@@ -369,6 +372,9 @@
 
 ## Python 
 
+- [pypa/pip](https://github.com/pypa/pip) - The Python package installer
+- [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
+- [crossplane/function-template-python](https://github.com/crossplane/function-template-python) - A template for writing a composition function in Python
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [jpadams/qr](https://github.com/jpadams/qr) - 
 - [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3) - Minimal PyTorch implementation of YOLOv3
@@ -534,6 +540,7 @@
 
 ## TypeScript 
 
+- [Picodes/4naly3er](https://github.com/Picodes/4naly3er) - Static smart contract code 4naly3er
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [replicatedhq/ttl.sh](https://github.com/replicatedhq/ttl.sh) - An anonymous & ephemeral Docker image registry
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
@@ -578,6 +585,10 @@
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## Vim Script 
+
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Vue 
 
