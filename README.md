@@ -17,6 +17,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Mustache](#mustache)
@@ -154,7 +155,7 @@
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [a8m/envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
 - [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [ethereumclassic/core-geth](https://github.com/ethereumclassic/core-geth) - A highly configurable Go implementation of the Ethereum protocol.
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
@@ -323,6 +324,10 @@
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
 
+## Kotlin 
+
+- [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App
+
 ## MDX 
 
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰
@@ -353,6 +358,7 @@
 
 ## Others 
 
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
 - [spamegg1/abstract-thinking](https://github.com/spamegg1/abstract-thinking) - Abstract thinking patterns and problem decomposition / solving strategies
 - [InternalDeveloperPlatform/Platform-Engineering-Community](https://github.com/InternalDeveloperPlatform/Platform-Engineering-Community) - A place for the Platform Engineering Community Guidelines and Code of Conduct.
@@ -528,6 +534,7 @@
 
 ## Shell 
 
+- [owntracks/owntracks](https://github.com/owntracks/owntracks) - OwnTracks
 - [thrackle-io/foundry](https://github.com/thrackle-io/foundry) - Foundry Stable Version Releases
 - [vfarcic/crossplane-tutorial](https://github.com/vfarcic/crossplane-tutorial) - 
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
