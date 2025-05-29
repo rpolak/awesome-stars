@@ -293,7 +293,6 @@
 - [cyrus-and/chrome-har-capturer](https://github.com/cyrus-and/chrome-har-capturer) - Capture HAR files from a Chrome instance
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [WebDevSimplified/Learn-GraphQL](https://github.com/WebDevSimplified/Learn-GraphQL) - 
-- [jhinch/nginx-linter](https://github.com/jhinch/nginx-linter) - 
 - [aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team) - Open-source temporary elevated access solution for AWS IAM Identity Center.
 - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [rpolak/node-easy-notes-app](https://github.com/rpolak/node-easy-notes-app) - A simple Note-Taking app built using Node.js, Express and Mongoose
@@ -303,7 +302,6 @@
 - [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
 - [paulnank/pdp11-js](https://github.com/paulnank/pdp11-js) - PDP 11/70 and PDP 11/45 emulator in Javascript
 - [serverlesspub/imagemagick-aws-lambda-2](https://github.com/serverlesspub/imagemagick-aws-lambda-2) - ImageMagick for AWS Lambda 2 runtimes
-- [newrelic/nr1-learn-nrql](https://github.com/newrelic/nr1-learn-nrql) - NR1 learn NRQL helps New Relic Customers quickly learn our custom query language - NRQL
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [vultr/vultr-node](https://github.com/vultr/vultr-node) - Vultr Node API client
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
@@ -586,6 +584,8 @@
 
 ## TypeScript 
 
+- [thrackle-io/fre-quickstart](https://github.com/thrackle-io/fre-quickstart) - 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [thrackle-io/forte-rules-engine-sdk](https://github.com/thrackle-io/forte-rules-engine-sdk) - SDK for aquifi-rules
