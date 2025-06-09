@@ -91,7 +91,7 @@
 
 ## C# # 
 
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [greenshot/greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
 
 ## C++ 
@@ -584,6 +584,7 @@
 
 ## TypeScript 
 
+- [KennyH/mine-bitcoin-online](https://github.com/KennyH/mine-bitcoin-online) - Service that allows users to mine Bitcoin though their browser
 - [thrackle-io/fre-quickstart](https://github.com/thrackle-io/fre-quickstart) - 
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
