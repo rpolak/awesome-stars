@@ -136,6 +136,7 @@
 
 ## Go 
 
+- [grafana/crossplane-provider-grafana](https://github.com/grafana/crossplane-provider-grafana) - Crossplane provider of https://github.com/grafana/terraform-provider-grafana
 - [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
