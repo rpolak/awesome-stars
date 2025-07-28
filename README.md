@@ -137,6 +137,7 @@
 
 ## Go 
 
+- [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [grafana/crossplane-provider-grafana](https://github.com/grafana/crossplane-provider-grafana) - Crossplane provider of https://github.com/grafana/terraform-provider-grafana
 - [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster.
@@ -586,6 +587,7 @@
 
 ## Solidity 
 
+- [Forte-Service-Company-Ltd/forte-token](https://github.com/Forte-Service-Company-Ltd/forte-token) - Token deployment
 - [thrackle-io/forte-rules-engine](https://github.com/thrackle-io/forte-rules-engine) - 
 - [thrackle-io/float128](https://github.com/thrackle-io/float128) - 
 - [thrackle-io/uint1024](https://github.com/thrackle-io/uint1024) - 
