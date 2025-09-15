@@ -1213,7 +1213,6 @@
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [Forte-Service-Company-Ltd/forte-rules-engine](https://github.com/Forte-Service-Company-Ltd/forte-rules-engine) - 
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
-- [rpolak/hello-dagger](https://github.com/rpolak/hello-dagger) - Dagger Quickstart - Example Application
 - [Forte-Service-Company-Ltd/float128](https://github.com/Forte-Service-Company-Ltd/float128) - 
 - [Forte-Service-Company-Ltd/uint1024](https://github.com/Forte-Service-Company-Ltd/uint1024) - 
 - [jpadams/qr](https://github.com/jpadams/qr) - 
@@ -1288,7 +1287,6 @@
 - [hassanhabib/The-Standard](https://github.com/hassanhabib/The-Standard) - This is The Standard. A collection of decades of experience in the engineering industry. I authored it to help you navigate the vast ocean of knowledge. The Standard is not perfect and never will be, 
 - [fetep/expressvpn-proxy](https://github.com/fetep/expressvpn-proxy) - expressvpn proxy in a container
 - [rpolak/awesome-stars](https://github.com/rpolak/awesome-stars) - My Awesome List
-- [rpolak/node-easy-notes-app](https://github.com/rpolak/node-easy-notes-app) - A simple Note-Taking app built using Node.js, Express and Mongoose
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [newrelic/newrelic-node-nextjs](https://github.com/newrelic/newrelic-node-nextjs) - New Relic Next.js instrumentation for the Node Agent
