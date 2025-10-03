@@ -14,7 +14,6 @@
 - [ansible](#ansible)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
-- [atom](#atom)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -24,6 +23,7 @@
 - [bash](#bash)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
+- [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
@@ -187,6 +187,7 @@
 - [ui](#ui)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vue](#vue)
 - [web](#web)
 - [webapp](#webapp)
@@ -245,16 +246,10 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [digitalocean/pydo](https://github.com/digitalocean/pydo) - Official DigitalOcean Python Client based on the DO OpenAPIv3 specification
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-- [radarlabs/api-diff](https://github.com/radarlabs/api-diff) - A command line tool for diffing json rest APIs
-- [koalalorenzo/python-digitalocean](https://github.com/koalalorenzo/python-digitalocean) - 🐍🐳 Python module to manage Digital Ocean droplets
 
 ## artificial-intelligence 
 
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-
-## atom 
-
-- [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## automation 
 
@@ -305,8 +300,6 @@
 - [widdix/aws-cf-templates](https://github.com/widdix/aws-cf-templates) - Free Templates for AWS CloudFormation
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js (In Maintenance Mode, End-of-Life on 09/08/2025). The AWS SDK for JavaScript v3 in the browser and Node.js is available here: https://github.com/aws/a
-- [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
-- [widdix/aws-ec2-ssh](https://github.com/widdix/aws-ec2-ssh) - Manage AWS EC2 SSH access with IAM
 - [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
 - [obsrvbl-oss/flowlogs-reader](https://github.com/obsrvbl-oss/flowlogs-reader) - Command line tool and Python library for working with AWS VPC Flow Logs
 - [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
@@ -335,12 +328,19 @@
 
 ## blockchain 
 
+- [denizumutdereli/smart-contract-transaction-monitoring](https://github.com/denizumutdereli/smart-contract-transaction-monitoring) - This project demonstrates how to monitor Ethereum smart contract transactions in real-time using Etherscan, InfluxDB, and Grafana
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor) - A blockchain monitoring service that watches for specific on-chain activities and triggers notifications based on configurable conditions.
+- [OpenZeppelin/openzeppelin-relayer](https://github.com/OpenZeppelin/openzeppelin-relayer) - OpenZeppelin Relayer
 - [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [RabbyHub/Rabby](https://github.com/RabbyHub/Rabby) - The game-changing wallet for Ethereum and all EVM chains
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
+
+## bot 
+
+- [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action!
 
 ## c 
 
@@ -366,7 +366,6 @@
 ## chatgpt 
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [darrenoakey/alter](https://github.com/darrenoakey/alter) - a script that uses ai to change files on your machine
 
 ## chrome 
 
@@ -389,7 +388,6 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [vultr/vultr-cli](https://github.com/vultr/vultr-cli) - Official command line tool for Vultr services
-- [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## cloud 
@@ -401,7 +399,6 @@
 - [digitalocean/pydo](https://github.com/digitalocean/pydo) - Official DigitalOcean Python Client based on the DO OpenAPIv3 specification
 - [confluentinc/examples](https://github.com/confluentinc/examples) - Apache Kafka, Apache Flink and Confluent Platform examples and demos
 - [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
-- [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [digitalocean/doctl](https://github.com/digitalocean/doctl) - The official command line interface for the DigitalOcean API.
@@ -554,7 +551,6 @@
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [pycontribs/jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python API for accessing resources and configuring Hudson & Jenkins continuous-integration servers
-- [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 
 ## django 
 
@@ -613,7 +609,6 @@
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## emacs 
 
@@ -635,6 +630,7 @@
 
 ## ethereum 
 
+- [denizumutdereli/smart-contract-transaction-monitoring](https://github.com/denizumutdereli/smart-contract-transaction-monitoring) - This project demonstrates how to monitor Ethereum smart contract transactions in real-time using Etherscan, InfluxDB, and Grafana
 - [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
 - [ethereum/py-evm](https://github.com/ethereum/py-evm) - A Python implementation of the Ethereum Virtual Machine
 - [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
@@ -649,7 +645,6 @@
 - [RabbyHub/Rabby](https://github.com/RabbyHub/Rabby) - The game-changing wallet for Ethereum and all EVM chains
 - [pk910/PoWFaucet](https://github.com/pk910/PoWFaucet) - Modularized faucet for EVM chains with different protection methods (Captcha, Mining, IP, Mainnet Balance, Gitcoin Passport and more)
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
-- [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [etclabscore/core-geth](https://github.com/etclabscore/core-geth) - A highly configurable Go implementation of the Ethereum protocol.
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
@@ -752,7 +747,6 @@
 - [newrelic/newrelic-cli](https://github.com/newrelic/newrelic-cli) - The New Relic Command Line Interface
 - [hashicorp/consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.
 - [kubernetes-up-and-running/kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo app for Kubernetes Up and Running book
-- [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [folbricht/desync](https://github.com/folbricht/desync) - Alternative casync implementation
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 
@@ -827,7 +821,6 @@
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [watson-developer-cloud/python-sdk](https://github.com/watson-developer-cloud/python-sdk) - :snake: Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
-- [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -837,7 +830,6 @@
 - [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
 - [greenshot/greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [digitalocean/doctl](https://github.com/digitalocean/doctl) - The official command line interface for the DigitalOcean API.
 
 ## home-assistant 
@@ -936,7 +928,6 @@
 - [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js (In Maintenance Mode, End-of-Life on 09/08/2025). The AWS SDK for JavaScript v3 in the browser and Node.js is available here: https://github.com/aws/a
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## jenkins 
 
@@ -952,7 +943,6 @@
 
 - [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
-- [radarlabs/api-diff](https://github.com/radarlabs/api-diff) - A command line tool for diffing json rest APIs
 
 ## kotlin 
 
@@ -1046,8 +1036,6 @@
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [svinota/pyroute2](https://github.com/svinota/pyroute2) - Python Netlink and PF_ROUTE library — network configuration and monitoring
-- [osiegmar/cloudwatch-mon-scripts-python](https://github.com/osiegmar/cloudwatch-mon-scripts-python) - Linux monitoring scripts for CloudWatch
-- [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## llm 
 
@@ -1075,7 +1063,6 @@
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config) - Shell scripts for customized macOS machine setup.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-- [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## microsoft 
 
@@ -1103,6 +1090,7 @@
 
 ## monitoring 
 
+- [denizumutdereli/smart-contract-transaction-monitoring](https://github.com/denizumutdereli/smart-contract-transaction-monitoring) - This project demonstrates how to monitor Ethereum smart contract transactions in real-time using Etherscan, InfluxDB, and Grafana
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
@@ -1218,6 +1206,7 @@
 
 ## others 
 
+- [trailofbits/not-going-anywhere](https://github.com/trailofbits/not-going-anywhere) - A set of vulnerable Golang programs
 - [crytic/slither-action](https://github.com/crytic/slither-action) - 
 - [crytic/medusa](https://github.com/crytic/medusa) - Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
@@ -1240,7 +1229,6 @@
 - [owntracks/owntracks](https://github.com/owntracks/owntracks) - OwnTracks
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [mmkay/trafiochrana](https://github.com/mmkay/trafiochrana) - Using public data to see stuff live.
 - [grafana/k6-oss-workshop](https://github.com/grafana/k6-oss-workshop) - Grafana k6 - OSS Workshop
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
 - [grafana/beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of web applications and network metrics
@@ -1256,7 +1244,6 @@
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [Forte-Service-Company-Ltd/float128](https://github.com/Forte-Service-Company-Ltd/float128) - 
 - [Forte-Service-Company-Ltd/uint1024](https://github.com/Forte-Service-Company-Ltd/uint1024) - 
-- [jpadams/qr](https://github.com/jpadams/qr) - 
 - [lizrice/learning-ebpf](https://github.com/lizrice/learning-ebpf) - Learning eBPF, published by O'Reilly - out now! Here's where you'll find a VM config for the examples, and more
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
@@ -1285,7 +1272,6 @@
 - [we-are-mono/filesystem](https://github.com/we-are-mono/filesystem) - The OS foundation for our upcoming router
 - [SummitRoute/aws_breaking_changes](https://github.com/SummitRoute/aws_breaking_changes) - List of changes announced for AWS that may break existing code
 - [evankanderson/repeatable-ai-2024](https://github.com/evankanderson/repeatable-ai-2024) - Example for a talk on repeatable data science using PyTorch as an example
-- [dockerce/docker-slim](https://github.com/dockerce/docker-slim) - DockerSlim (docker-slim): Optimize and secure your Docker containers (free and open source)
 - [M-Razavi/Spring-Data-OpenSearch-Example](https://github.com/M-Razavi/Spring-Data-OpenSearch-Example) - 
 - [aws-samples/serverless-ui-testing-using-selenium](https://github.com/aws-samples/serverless-ui-testing-using-selenium) - 
 - [port-labs/terraform-provider-port-labs](https://github.com/port-labs/terraform-provider-port-labs) - Port Terraform Provider
@@ -1303,7 +1289,6 @@
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
-- [bkahlert/kill-zscaler](https://github.com/bkahlert/kill-zscaler) - Kill Zscaler without password or jail Zscaler in a virtual machine
 - [eez-open/studio](https://github.com/eez-open/studio) - Cross-platform low-code GUI and automation
 - [eez-open/psu-hw](https://github.com/eez-open/psu-hw) - EEZ H24005 programmable bench power supply (powered by Arduino Due)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
@@ -1313,15 +1298,11 @@
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [probnot/wpg-weatherchan](https://github.com/probnot/wpg-weatherchan) - This creates the old-school looking weather channel that was common on Winnipeg cable TV into the 1990s.
 - [jSherz/terraform-provider-node-lambda-packager](https://github.com/jSherz/terraform-provider-node-lambda-packager) - Bundles your Lambda code and zips it up ready to feed into aws_lambda_function.
-- [jSherz/automate-aws-access-removal](https://github.com/jSherz/automate-aws-access-removal) - Immediately block users from your AWS organization when they're disabled or removed in Identity Center.
 - [aws-samples/aws-iam-identity-center-extensions](https://github.com/aws-samples/aws-iam-identity-center-extensions) - This solution is intended for enterprises that need a streamlined way of managing user access to their AWS accounts. Using this solution, your identity and access management teams can extend AWS SSO f
 - [terramate-io/terramate](https://github.com/terramate-io/terramate) - Open-source Infrastructure as Code (IaC) orchestration platform: GitOps workflows, orchestration, code generation, observability, drift detection, asset management, policies, Slack notifications, and 
 - [aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team) - Open-source temporary elevated access solution for AWS IAM Identity Center.
 - [ooiyeefei/aws-iam-identity-center-permission-policies-analyzer](https://github.com/ooiyeefei/aws-iam-identity-center-permission-policies-analyzer) - This solution uses AWS SDKs to automate the analysis of all users in AWS Identity Center (previously AWS SSO) and retrieve the attached permission policies (Inline, AWS Managed, Customer Managed) base
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
-- [decentraland/explorer-desktop-launcher](https://github.com/decentraland/explorer-desktop-launcher) - 
-- [wesgould/twit-transcripts](https://github.com/wesgould/twit-transcripts) - Whisper AI created transcripts for TWiT network podcasts
-- [aws-samples/amazon-cloudfront-waf-secretsmanager](https://github.com/aws-samples/amazon-cloudfront-waf-secretsmanager) - Enhance Amazon CloudFront Origin Security with AWS WAF and AWS Secrets Manager
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge) - Information useful to people contributing to Rust
@@ -1330,11 +1311,8 @@
 - [rpolak/awesome-stars](https://github.com/rpolak/awesome-stars) - My Awesome List
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
-- [newrelic/newrelic-node-nextjs](https://github.com/newrelic/newrelic-node-nextjs) - New Relic Next.js instrumentation for the Node Agent
 - [DNSPerf/dnsperf](https://github.com/DNSPerf/dnsperf) - DNS Performance testing tool
 - [100daysofdevops/100daysofdevops](https://github.com/100daysofdevops/100daysofdevops) - 
-- [crisboarna/terraform-aws-api-gateway-lambda-dynamodb](https://github.com/crisboarna/terraform-aws-api-gateway-lambda-dynamodb) - Terraform module which deploys a serverless HTTP endpoint backed by AWS API Gateway, Lambda & DynamoDB
-- [openBA-NextGenTV/OpenBA-NextGenTV](https://github.com/openBA-NextGenTV/OpenBA-NextGenTV) - 
 - [newrelic/infrastructure-agent](https://github.com/newrelic/infrastructure-agent) - New Relic Infrastructure Agent
 - [juliagoda/CH341SER](https://github.com/juliagoda/CH341SER) - CH341SER driver with fixed bug
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
@@ -1344,7 +1322,6 @@
 - [iamjawa/zork-py](https://github.com/iamjawa/zork-py) - Zork: The PY Edition (A Python Text-Adventure based loosely on the original Zork.)
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
-- [segmentio/stack](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure with AWS
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [ProjectOpenSea/opensea-js](https://github.com/ProjectOpenSea/opensea-js) - TypeScript SDK for the OpenSea marketplace
 - [nginx/docker-nginx](https://github.com/nginx/docker-nginx) - Official NGINX Dockerfiles
@@ -1352,9 +1329,7 @@
 - [trexminer/T-Rex](https://github.com/trexminer/T-Rex) - T-Rex NVIDIA GPU miner with web control monitoring page
 - [Netflix/zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 - [hashicorp-education/learn-consul-kubernetes](https://github.com/hashicorp-education/learn-consul-kubernetes) - 
-- [stevenfeltner/terraform-spotinst-ocean-aws-k8s-lb](https://github.com/stevenfeltner/terraform-spotinst-ocean-aws-k8s-lb) - Terraform Module to Add and Remove Loadbalancer from Ocean Cluster
 - [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
-- [freebsd/freebsd-quarterly](https://github.com/freebsd/freebsd-quarterly) - FreeBSD quarterly reports
 - [todxx/teamredminer](https://github.com/todxx/teamredminer) - AMD GPU Optimized Cryptocurrency Miner
 - [decentraland/marketplace](https://github.com/decentraland/marketplace) - 🏛️ Decentraland's NFT Marketplace
 - [decentraland/explorer](https://github.com/decentraland/explorer) - 🌎 Explore Decentraland from a web browser
@@ -1362,7 +1337,6 @@
 - [maxmind/GeoIP2-python](https://github.com/maxmind/GeoIP2-python) - Python code for GeoIP2 webservice client and database reader
 - [kbandla/dpkt](https://github.com/kbandla/dpkt) - fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols
 - [FoldingAtHome/containers](https://github.com/FoldingAtHome/containers) - Docker containers for easily launching the Folding@home client anywhere!
-- [serverlesspub/imagemagick-aws-lambda-2](https://github.com/serverlesspub/imagemagick-aws-lambda-2) - ImageMagick for AWS Lambda 2 runtimes
 - [dweomer/dockerfiles-stunnel](https://github.com/dweomer/dockerfiles-stunnel) - secure services with stunnel
 - [ethereum/trinity](https://github.com/ethereum/trinity) - The Trinity client for the Ethereum network
 - [terraform-community-modules/tf_aws_elasticache_redis](https://github.com/terraform-community-modules/tf_aws_elasticache_redis) - [DEPRECATED] Use https://github.com/terraform-aws-modules/terraform-aws-elasticache
@@ -1375,13 +1349,9 @@
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [cagataygurturk/docker-ssh-tunnel](https://github.com/cagataygurturk/docker-ssh-tunnel) - Simple SSH tunnel with Docker
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
-- [johnktims/folding-at-home](https://github.com/johnktims/folding-at-home) - Unofficial docker image for f@h
 - [mnubo/kubernetes-py](https://github.com/mnubo/kubernetes-py) - A python module for Kubernetes.
-- [Odania-IT/aws-kubectl](https://github.com/Odania-IT/aws-kubectl) - 
-- [jgreat/tf-rancher-2.0](https://github.com/jgreat/tf-rancher-2.0) - Some sample terraform to launch rancher 2.0 server.
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [kubernetes-up-and-running/examples](https://github.com/kubernetes-up-and-running/examples) - Example code and files from "Kubernetes: Up and Running"
-- [rancher/quickstart](https://github.com/rancher/quickstart) - 
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
 - [awslabs/aws-support-tools](https://github.com/awslabs/aws-support-tools) - Tools and sample code provided by AWS Premium Support.
 - [max-mapper/cats](https://github.com/max-mapper/cats) - BSD licensed cat photos that I've taken
@@ -1395,7 +1365,6 @@
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [u-boot/u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [xiaocong/uiautomator](https://github.com/xiaocong/uiautomator) - Python wrapper of Android uiautomator test tool.
 - [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
 - [aws/aws-codedeploy-agent](https://github.com/aws/aws-codedeploy-agent) - Host Agent for AWS CodeDeploy
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
@@ -1411,7 +1380,6 @@
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [phpipam/phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
 - [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
-- [awslabs/collectd-cloudwatch](https://github.com/awslabs/collectd-cloudwatch) - A collectd plugin for sending data to Amazon CloudWatch
 - [cloudflare/pmtud](https://github.com/cloudflare/pmtud) - Path MTU daemon - broadcast lost ICMP packets on ECMP networks
 - [jorgebastida/awslogs](https://github.com/jorgebastida/awslogs) - AWS CloudWatch logs for Humans™
 - [amzn/amzn-drivers](https://github.com/amzn/amzn-drivers) - Official AWS drivers repository for Elastic Network Adapter (ENA) and Elastic Fabric Adapter (EFA)
@@ -1419,12 +1387,10 @@
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
 - [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
-- [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 - [aws-samples/aws-device-farm-sample-app-for-ios](https://github.com/aws-samples/aws-device-farm-sample-app-for-ios) - 
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [evidens/json2csv](https://github.com/evidens/json2csv) - Converts JSON files to CSV (pulling data from nested structures). Useful for Mongo data
 - [boto/boto](https://github.com/boto/boto) - For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services
-- [ramnode/LookingGlass](https://github.com/ramnode/LookingGlass) - A Python-backed Looking Glass in the spirit of https://github.com/telephone/LookingGlass
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application
 - [pfsense/pfsense](https://github.com/pfsense/pfsense) - Main repository for pfSense
 - [bobthecow/git-flow-completion](https://github.com/bobthecow/git-flow-completion) - Bash, Zsh and fish completion support for git-flow.
@@ -1478,7 +1444,6 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
-- [Chatcola-com/chatcola](https://github.com/Chatcola-com/chatcola) - chatcola.com messaging server - self-host your messages without multi-domain nightmare!
 
 ## productivity 
 
@@ -1547,11 +1512,8 @@
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 - [nickbabcock/bottle-ssl](https://github.com/nickbabcock/bottle-ssl) - A simple web page using BottlePy and SSL
-- [sethmlarson/virtualbox-python](https://github.com/sethmlarson/virtualbox-python) - Complete implementation of VirtualBox's COM API with a Pythonic interface.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [svinota/pyroute2](https://github.com/svinota/pyroute2) - Python Netlink and PF_ROUTE library — network configuration and monitoring
-- [koalalorenzo/python-digitalocean](https://github.com/koalalorenzo/python-digitalocean) - 🐍🐳 Python module to manage Digital Ocean droplets
-- [osiegmar/cloudwatch-mon-scripts-python](https://github.com/osiegmar/cloudwatch-mon-scripts-python) - Linux monitoring scripts for CloudWatch
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [obsrvbl-oss/flowlogs-reader](https://github.com/obsrvbl-oss/flowlogs-reader) - Command line tool and Python library for working with AWS VPC Flow Logs
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
@@ -1565,7 +1527,6 @@
 - [NESCAU-UFLA/FuzzingTool](https://github.com/NESCAU-UFLA/FuzzingTool) - Software for fuzzing, used on web application pentestings.
 - [ishepard/pydriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories
 - [cloudtools/troposphere](https://github.com/cloudtools/troposphere) - troposphere - Python library to create AWS CloudFormation descriptions
-- [thiezn/iperf3-python](https://github.com/thiezn/iperf3-python) - Python wrapper around iperf3
 
 ## pytorch 
 
@@ -1599,7 +1560,6 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
 - [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better.
-- [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [kubernetes-up-and-running/kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo app for Kubernetes Up and Running book
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
 
@@ -1628,6 +1588,7 @@
 
 ## rust 
 
+- [OpenZeppelin/openzeppelin-relayer](https://github.com/OpenZeppelin/openzeppelin-relayer) - OpenZeppelin Relayer
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -1679,7 +1640,6 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-- [Chatcola-com/chatcola](https://github.com/Chatcola-com/chatcola) - chatcola.com messaging server - self-host your messages without multi-domain nightmare!
 - [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
 
 ## serverless 
@@ -1711,7 +1671,6 @@
 - [graphprotocol/contracts](https://github.com/graphprotocol/contracts) - Contracts repository for The Graph protocol
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
-- [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 
 ## spring 
 
@@ -1838,6 +1797,10 @@
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
+## visualization 
+
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+
 ## vue 
 
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -1872,7 +1835,6 @@
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [winscp/winscp](https://github.com/winscp/winscp) - WinSCP is a popular free file manager for Windows supporting SFTP, FTP, FTPS, SCP, S3, WebDAV and local-to-local file transfers. A powerful tool to enhance your productivity with a user-friendly inter
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-- [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 
 ## zsh 
