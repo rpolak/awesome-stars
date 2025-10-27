@@ -230,7 +230,7 @@
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [vultr/vultr-cli](https://github.com/vultr/vultr-cli) - Official command line tool for Vultr services
 - [IBM-Cloud/terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs
-- [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [hashicorp/consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.
@@ -294,6 +294,7 @@
 
 ## JavaScript 
 
+- [OpenZeppelin/openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) - Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts.
 - [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action!
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 - [DefiLlama/chainlist](https://github.com/DefiLlama/chainlist) - 
@@ -577,6 +578,7 @@
 
 ## Solidity 
 
+- [foundry-rs/forge-std](https://github.com/foundry-rs/forge-std) - A collection of helpful contracts and libraries for use with Forge and Foundry
 - [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [Forte-Service-Company-Ltd/forte-token](https://github.com/Forte-Service-Company-Ltd/forte-token) - Token deployment
 - [Forte-Service-Company-Ltd/forte-rules-engine](https://github.com/Forte-Service-Company-Ltd/forte-rules-engine) - 
