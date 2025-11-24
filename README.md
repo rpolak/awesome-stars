@@ -295,6 +295,7 @@
 
 ## JavaScript 
 
+- [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [OpenZeppelin/defender-templates](https://github.com/OpenZeppelin/defender-templates) - Templates for using OpenZeppelin Defender using Serverless configurations
 - [OpenZeppelin/openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) - Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts.
 - [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action!
@@ -554,6 +555,7 @@
 
 ## Shell 
 
+- [TrueBlocks/trueblocks-core](https://github.com/TrueBlocks/trueblocks-core) - The main repository for the TrueBlocks system
 - [mendhak/docker-http-https-echo](https://github.com/mendhak/docker-http-https-echo) - Docker image that echoes request data as JSON; listens on HTTP/S, useful for debugging.
 - [crytic/slither-action](https://github.com/crytic/slither-action) - 
 - [owntracks/owntracks](https://github.com/owntracks/owntracks) - OwnTracks
