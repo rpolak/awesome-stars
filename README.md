@@ -35,6 +35,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Solidity](#solidity)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -307,7 +308,6 @@
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [port-labs/port-docs](https://github.com/port-labs/port-docs) - The open-source repo for docs.port.io
 - [cyrus-and/chrome-har-capturer](https://github.com/cyrus-and/chrome-har-capturer) - Capture HAR files from a Chrome instance
@@ -425,6 +425,8 @@
 
 ## Python 
 
+- [kubernetes/sig-security](https://github.com/kubernetes/sig-security) - Process documentation, non-code deliverables, and miscellaneous artifacts of Kubernetes SIG Security
+- [connectrpc/connect-python](https://github.com/connectrpc/connect-python) - The Python implementation of Connect: Protobuf RPC that works.
 - [rpolak/awesome-stars](https://github.com/rpolak/awesome-stars) - My Awesome List
 - [denizumutdereli/smart-contract-transaction-monitoring](https://github.com/denizumutdereli/smart-contract-transaction-monitoring) - This project demonstrates how to monitor Ethereum smart contract transactions in real-time using Etherscan, InfluxDB, and Grafana
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
@@ -599,6 +601,10 @@
 - [Uniswap/v4-core](https://github.com/Uniswap/v4-core) - 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4
 - [thrackle-io/forte-rules-engine-v1](https://github.com/thrackle-io/forte-rules-engine-v1) - Rules engine implementation in Solidity
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
+
+## Svelte 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Swift 
 
