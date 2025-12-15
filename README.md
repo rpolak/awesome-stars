@@ -138,6 +138,7 @@
 
 ## Go 
 
+- [streamingfast/substreams-sink-sql](https://github.com/streamingfast/substreams-sink-sql) - 
 - [go-jose/go-jose](https://github.com/go-jose/go-jose) - An implementation of JOSE standards (JWE, JWS, JWT) in Go
 - [auth0/go-jwt-middleware](https://github.com/auth0/go-jwt-middleware) - A Middleware for Go Programming Language to check for JWTs on HTTP requests
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
