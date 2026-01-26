@@ -30,7 +30,6 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -99,6 +98,7 @@
 
 ## C++ 
 
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -207,7 +207,7 @@
 - [leafcloudhq/echoip](https://github.com/leafcloudhq/echoip) - IP address lookup service
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -530,10 +530,6 @@
 - [boto/boto](https://github.com/boto/boto) - For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 
-## Roff 
-
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-
 ## Ruby 
 
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -547,7 +543,7 @@
 - [pop-os/cosmic-settings](https://github.com/pop-os/cosmic-settings) - COSMIC Settings
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [hook0/hook0](https://github.com/hook0/hook0) - Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement.
-- [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, fast and modular implementation of the Ethereum protocol in Rust. L1 and L2 execution client.
+- [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, stable, modular, fast, and ZK native implementation of the Ethereum protocol in Rust. L1 and L2 execution client.
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor) - A blockchain monitoring service that watches for specific on-chain activities and triggers notifications based on configurable conditions.
 - [OpenZeppelin/openzeppelin-relayer](https://github.com/OpenZeppelin/openzeppelin-relayer) - OpenZeppelin Relayer
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
@@ -591,6 +587,7 @@
 - [IBM-Cloud/ibm-cloud-developer-tools](https://github.com/IBM-Cloud/ibm-cloud-developer-tools) - Installation scripts for new IBM Cloud Developer CLI Plugin and it's dependencies.
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [kubernetes-up-and-running/examples](https://github.com/kubernetes-up-and-running/examples) - Example code and files from "Kubernetes: Up and Running"
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [maxschlapfer/MacAdminHelpers](https://github.com/maxschlapfer/MacAdminHelpers) - Helpers for OS X packaging and MacAdmins
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config) - Shell scripts for customized macOS machine setup.
