@@ -137,6 +137,7 @@
 
 ## Go 
 
+- [grafana/quickpizza](https://github.com/grafana/quickpizza) - Demo app for learning observability with Grafana and performance testing with k6.
 - [Adversis/tailsnitch](https://github.com/Adversis/tailsnitch) - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations.
 - [streamingfast/substreams](https://github.com/streamingfast/substreams) - Powerful Blockchain streaming data engine, based on StreamingFast Firehose technology.
 - [streamingfast/substreams-sink-sql](https://github.com/streamingfast/substreams-sink-sql) - 
@@ -207,7 +208,7 @@
 - [leafcloudhq/echoip](https://github.com/leafcloudhq/echoip) - IP address lookup service
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -318,7 +319,6 @@
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [port-labs/port-docs](https://github.com/port-labs/port-docs) - The open-source repo for docs.port.io
 - [cyrus-and/chrome-har-capturer](https://github.com/cyrus-and/chrome-har-capturer) - Capture HAR files from a Chrome instance
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [eez-open/studio](https://github.com/eez-open/studio) - Cross-platform low-code GUI and automation
@@ -603,9 +603,11 @@
 - [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [Forte-Service-Company-Ltd/forte-token](https://github.com/Forte-Service-Company-Ltd/forte-token) - Token deployment
 - [Forte-Service-Company-Ltd/forte-rules-engine](https://github.com/Forte-Service-Company-Ltd/forte-rules-engine) - 
+- [Forte-Service-Company-Ltd/liquidity-base](https://github.com/Forte-Service-Company-Ltd/liquidity-base) - 
 - [Forte-Service-Company-Ltd/float128](https://github.com/Forte-Service-Company-Ltd/float128) - 
 - [Forte-Service-Company-Ltd/uint1024](https://github.com/Forte-Service-Company-Ltd/uint1024) - 
 - [graphprotocol/contracts](https://github.com/graphprotocol/contracts) - Contracts repository for The Graph protocol
+- [Forte-Service-Company-Ltd/liquidity-altbc](https://github.com/Forte-Service-Company-Ltd/liquidity-altbc) - 
 - [Uniswap/v4-core](https://github.com/Uniswap/v4-core) - 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4
 - [thrackle-io/forte-rules-engine-v1](https://github.com/thrackle-io/forte-rules-engine-v1) - Rules engine implementation in Solidity
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
@@ -618,6 +620,7 @@
 
 ## TypeScript 
 
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [bcamp136/world-builder](https://github.com/bcamp136/world-builder) - AI-powered world building application with React and TypeScript
