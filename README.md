@@ -61,11 +61,9 @@
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [DNSPerf/dnsperf](https://github.com/DNSPerf/dnsperf) - DNS Performance testing tool
-- [juliagoda/CH341SER](https://github.com/juliagoda/CH341SER) - CH341SER driver with fixed bug
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
-- [varnishcache/varnish-cache](https://github.com/varnishcache/varnish-cache) - Varnish Cache source code repository
 - [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [winscp/winscp](https://github.com/winscp/winscp) - WinSCP is a popular free file manager for Windows supporting SFTP, FTP, FTPS, SCP, S3, WebDAV and local-to-local file transfers. A powerful tool to enhance your productivity with a user-friendly inter
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
@@ -85,7 +83,6 @@
 - [libimobiledevice/ideviceinstaller](https://github.com/libimobiledevice/ideviceinstaller) - Manage apps of iOS devices
 - [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 - [cloudflare/pmtud](https://github.com/cloudflare/pmtud) - Path MTU daemon - broadcast lost ICMP packets on ECMP networks
-- [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library
 - [amzn/amzn-drivers](https://github.com/amzn/amzn-drivers) - Official AWS drivers repository for Elastic Network Adapter (ENA) and Elastic Fabric Adapter (EFA)
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
@@ -250,7 +247,6 @@
 - [folbricht/desync](https://github.com/folbricht/desync) - Alternative casync implementation
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [aws/amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) - An agent to enable remote management of your EC2 instances, on-premises servers, or virtual machines (VMs).
-- [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [digitalocean/doctl](https://github.com/digitalocean/doctl) - The official command line interface for the DigitalOcean API.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -269,7 +265,6 @@
 - [100daysofdevops/100daysofdevops](https://github.com/100daysofdevops/100daysofdevops) - 
 - [hashicorp-education/learn-consul-kubernetes](https://github.com/hashicorp-education/learn-consul-kubernetes) - 
 - [terraform-community-modules/tf_aws_elasticache_redis](https://github.com/terraform-community-modules/tf_aws_elasticache_redis) - [DEPRECATED] Use https://github.com/terraform-aws-modules/terraform-aws-elasticache
-- [dod-iac/terraform-aws-lambda-edge-function](https://github.com/dod-iac/terraform-aws-lambda-edge-function) - AWS Lambda Function for use with Lambda@Edge
 - [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 
 ## HTML 
@@ -380,7 +375,6 @@
 
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
-- [facebookarchive/WebDriverAgent](https://github.com/facebookarchive/WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator.
 - [aws-samples/aws-device-farm-sample-app-for-ios](https://github.com/aws-samples/aws-device-farm-sample-app-for-ios) - 
 
 ## Others 
@@ -442,7 +436,6 @@
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
 - [prometheus/client_python](https://github.com/prometheus/client_python) - Prometheus instrumentation library for Python applications
-- [ethereum/py-evm](https://github.com/ethereum/py-evm) - A Python implementation of the Ethereum Virtual Machine
 - [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 - [crossplane/function-sdk-python](https://github.com/crossplane/function-sdk-python) - The Python SDK for composition functions
 - [crossplane-contrib/function-python](https://github.com/crossplane-contrib/function-python) - Compose @crossplane resources using Python
@@ -518,7 +511,6 @@
 - [paramiko/paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
 - [svinota/pyroute2](https://github.com/svinota/pyroute2) - Python Netlink and PF_ROUTE library — network configuration and monitoring
 - [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
-- [pypxe/PyPXE](https://github.com/pypxe/PyPXE) - Pure Python PXE (DHCP-(Proxy)/TFTP/HTTP/NBD) Server
 - [jorgebastida/awslogs](https://github.com/jorgebastida/awslogs) - AWS CloudWatch logs for Humans™
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [obsrvbl-oss/flowlogs-reader](https://github.com/obsrvbl-oss/flowlogs-reader) - Command line tool and Python library for working with AWS VPC Flow Logs
@@ -527,7 +519,6 @@
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
 - [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
 - [evidens/json2csv](https://github.com/evidens/json2csv) - Converts JSON files to CSV (pulling data from nested structures). Useful for Mongo data
-- [boto/boto](https://github.com/boto/boto) - For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 
 ## Ruby 
@@ -583,7 +574,6 @@
 - [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) - 
 - [dweomer/dockerfiles-stunnel](https://github.com/dweomer/dockerfiles-stunnel) - secure services with stunnel
 - [confluentinc/demo-scene](https://github.com/confluentinc/demo-scene) - Scripts and samples to support Confluent Demos, Talks, and Blogs. Not all of the examples in this repository are kept up to date. For automated tutorials and QA'd code, see https://github.com/confluen
-- [hashicorp/docker-hub-images](https://github.com/hashicorp/docker-hub-images) - Automatic builds of container images for Docker Hub
 - [IBM-Cloud/ibm-cloud-developer-tools](https://github.com/IBM-Cloud/ibm-cloud-developer-tools) - Installation scripts for new IBM Cloud Developer CLI Plugin and it's dependencies.
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [kubernetes-up-and-running/examples](https://github.com/kubernetes-up-and-running/examples) - Example code and files from "Kubernetes: Up and Running"
@@ -595,7 +585,6 @@
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [freebsd/poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
 - [bobthecow/git-flow-completion](https://github.com/bobthecow/git-flow-completion) - Bash, Zsh and fish completion support for git-flow.
-- [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 
 ## Solidity 
 
@@ -653,7 +642,6 @@
 - [aws/awsui-documentation](https://github.com/aws/awsui-documentation) - Information on how to get started using AWS UI components
 - [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools for AWS is a developer toolkit to implement Serverless best practices and increase developer velocity.
 - [aws-samples/aws-iam-identity-center-extensions](https://github.com/aws-samples/aws-iam-identity-center-extensions) - This solution is intended for enterprises that need a streamlined way of managing user access to their AWS accounts. Using this solution, your identity and access management teams can extend AWS SSO f
-- [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [pk910/PoWFaucet](https://github.com/pk910/PoWFaucet) - Modularized faucet for EVM chains with different protection methods (Captcha, Mining, IP, Mainnet Balance, Gitcoin Passport and more)
@@ -666,7 +654,6 @@
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [decentraland/marketplace](https://github.com/decentraland/marketplace) - 🏛️ Decentraland's NFT Marketplace
-- [decentraland/explorer](https://github.com/decentraland/explorer) - 🌎 Explore Decentraland from a web browser
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
