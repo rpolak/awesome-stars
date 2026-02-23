@@ -298,6 +298,7 @@
 
 ## aws 
 
+- [coroot/coroot-aws-agent](https://github.com/coroot/coroot-aws-agent) - A prometheus exporter that gathers metrics from AWS services.
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [aws-ia/terraform-aws-eks-blueprints-addons](https://github.com/aws-ia/terraform-aws-eks-blueprints-addons) - Terraform module which provisions addons on Amazon EKS clusters
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
@@ -1169,6 +1170,7 @@
 
 ## monitoring 
 
+- [coroot/coroot-node-agent](https://github.com/coroot/coroot-node-agent) - A Prometheus exporter based on eBPF that gathers comprehensive container metrics
 - [denizumutdereli/smart-contract-transaction-monitoring](https://github.com/denizumutdereli/smart-contract-transaction-monitoring) - This project demonstrates how to monitor Ethereum smart contract transactions in real-time using Etherscan, InfluxDB, and Grafana
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
@@ -1286,6 +1288,7 @@
 
 ## others 
 
+- [coroot/coroot-cluster-agent](https://github.com/coroot/coroot-cluster-agent) - 
 - [grafana/quickpizza](https://github.com/grafana/quickpizza) - Demo app for learning observability with Grafana and performance testing with k6.
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers
 - [Adversis/tailsnitch](https://github.com/Adversis/tailsnitch) - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations.
