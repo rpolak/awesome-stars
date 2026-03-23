@@ -152,117 +152,7 @@ class GitHubAnalyzer:
             "fork": repo_info.get("fork", False),
         }
 
-    def analyze_awesome_stars(self, readme_path: str, output_file: str = None) -> Dict:
-        """Main analysis function"""
-        print("Extracting repositories from README...")
-        repos = self.extract_github_repos(readme_path)
-        print(f"Found {len(repos)} unique repositories")
 
-        results = {
-            "analysis_date": datetime.now().isoformat(),
-            "total_repos": len(repos),
-            "stale_repos": [],
-            "possibly_stale_repos": [],
-            "active_repos": [],
-            "error_repos": [],
-        }
-
-        print("\nAnalyzing repositories...")
-        for i, repo in enumerate(repos, 1):
-            print(f"[{i}/{len(repos)}] Analyzing {repo}...")
-
-            repo_info = self.get_repo_info(repo)
-            staleness = self.analyze_staleness(repo_info)
-
-            repo_analysis = {
-                "repo": repo,
-                "url": f"https://github.com/{repo}",
-                "staleness": staleness,
-            }
-
-            # Add additional info if available
-            if "error" not in repo_info:
-                repo_analysis.update(
-                    {
-                        "description": repo_info.get("description", ""),
-                        "language": repo_info.get("language", "Unknown"),
-                        "stars": repo_info.get("stargazers_count", 0),
-                        "last_push": repo_info.get("pushed_at", ""),
-                        "created_at": repo_info.get("created_at", ""),
-                        "archived": repo_info.get("archived", False),
-                    }
-                )
-
-            # Categorize
-            if staleness["category"] == "error":
-                results["error_repos"].append(repo_analysis)
-            elif staleness["category"] in ["very_stale", "stale"]:
-                results["stale_repos"].append(repo_analysis)
-            elif staleness["category"] == "possibly_stale":
-                results["possibly_stale_repos"].append(repo_analysis)
-            else:
-                results["active_repos"].append(repo_analysis)
-
-            # Rate limiting - sleep between requests
-            time.sleep(0.1)
-
-        # Sort results by staleness score
-        results["stale_repos"].sort(
-            key=lambda x: x["staleness"]["staleness_score"], reverse=True
-        )
-        results["possibly_stale_repos"].sort(
-            key=lambda x: x["staleness"]["staleness_score"], reverse=True
-        )
-
-        if output_file:
-            with open(output_file, "w") as f:
-                json.dump(results, f, indent=2)
-            print(f"\nResults saved to {output_file}")
-
-        return results
-
-    def print_summary(self, results: Dict):
-        """Print a summary of the analysis"""
-        print("\n" + "=" * 80)
-        print("AWESOME STARS STALENESS ANALYSIS SUMMARY")
-        print("=" * 80)
-
-        print(f"Total repositories analyzed: {results['total_repos']}")
-        print(f"Stale repositories: {len(results['stale_repos'])}")
-        print(f"Possibly stale repositories: {len(results['possibly_stale_repos'])}")
-        print(f"Active repositories: {len(results['active_repos'])}")
-        print(f"Error repositories: {len(results['error_repos'])}")
-
-        if results["stale_repos"]:
-            print(f"\n🔴 TOP 10 STALE REPOSITORIES:")
-            print("-" * 50)
-            for repo in results["stale_repos"][:10]:
-                reasons = ", ".join(repo["staleness"]["reasons"])
-                print(
-                    f"• {repo['repo']} (Score: {repo['staleness']['staleness_score']})"
-                )
-                print(f"  {reasons}")
-                if repo.get("description"):
-                    print(f"  Description: {repo['description'][:80]}...")
-                print()
-
-        if results["possibly_stale_repos"]:
-            print(f"\n🟡 TOP 10 POSSIBLY STALE REPOSITORIES:")
-            print("-" * 50)
-            for repo in results["possibly_stale_repos"][:10]:
-                reasons = ", ".join(repo["staleness"]["reasons"])
-                print(
-                    f"• {repo['repo']} (Score: {repo['staleness']['staleness_score']})"
-                )
-                print(f"  {reasons}")
-                print()
-
-        if results["error_repos"]:
-            print(f"\n❌ REPOSITORIES WITH ERRORS:")
-            print("-" * 50)
-            for repo in results["error_repos"]:
-                reasons = ", ".join(repo["staleness"]["reasons"])
-                print(f"• {repo['repo']}: {reasons}")
 
 
 def focused_analysis_mode(
@@ -473,16 +363,10 @@ def main():
         "--token", help="GitHub API token (or set GITHUB_TOKEN env var)"
     )
     parser.add_argument(
-        "--mode",
-        choices=["simple", "focused"],
-        default="simple",
-        help="Analysis mode: simple (basic summary) or focused (detailed with batch processing)",
-    )
-    parser.add_argument(
         "--batch-size",
         type=int,
         default=50,
-        help="Batch size for focused mode (default: 50)",
+        help="Batch size for analysis (default: 50)",
     )
 
     args = parser.parse_args()
@@ -500,15 +384,11 @@ def main():
         print("Consider setting GITHUB_TOKEN environment variable or using --token")
 
     try:
-        if args.mode == "focused":
-            results = focused_analysis_mode(analyzer, args.readme, args.batch_size)
-            if args.output:
-                with open(args.output, "w") as f:
-                    json.dump(results, f, indent=2)
-            print_focused_summary(results, args.output)
-        else:  # simple mode
-            results = analyzer.analyze_awesome_stars(args.readme, args.output)
-            analyzer.print_summary(results)
+        results = focused_analysis_mode(analyzer, args.readme, args.batch_size)
+        if args.output:
+            with open(args.output, "w") as f:
+                json.dump(results, f, indent=2)
+        print_focused_summary(results, args.output)
         return 0
     except KeyboardInterrupt:
         print("\nAnalysis interrupted by user")
