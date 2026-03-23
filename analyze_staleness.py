@@ -265,6 +265,201 @@ class GitHubAnalyzer:
                 print(f"• {repo['repo']}: {reasons}")
 
 
+def focused_analysis_mode(
+    analyzer, readme_path: str, batch_size: int = 50
+) -> Dict:
+    """Focused analysis with batch processing and enhanced reporting"""
+    print("🔍 AWESOME STARS STALENESS ANALYSIS (FOCUSED MODE)")
+    print("=" * 50)
+
+    # Extract all repositories
+    print("📋 Extracting repositories from README...")
+    with open(readme_path, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    pattern = r"https://github\.com/([^/\s\)]+)/([^/\s\)]+)"
+    matches = re.findall(pattern, content)
+
+    repos = []
+    for owner, repo in matches:
+        repo = re.sub(r"[^\w\-\.].*$", "", repo)
+        repos.append(f"{owner}/{repo}")
+
+    repos = list(set(repos))  # Remove duplicates
+    print(f"📊 Found {len(repos)} unique repositories")
+
+    # Results storage
+    results = {
+        "analysis_date": datetime.now().isoformat(),
+        "total_analyzed": 0,
+        "stale_repos": [],
+        "possibly_stale_repos": [],
+        "archived_repos": [],
+        "missing_repos": [],
+        "error_count": 0,
+    }
+
+    print(f"\n🔬 Analyzing repositories (this may take a while)...")
+
+    # Process in smaller batches
+    for batch_start in range(0, len(repos), batch_size):
+        batch_end = min(batch_start + batch_size, len(repos))
+        batch_repos = repos[batch_start:batch_end]
+
+        print(
+            f"\n📦 Processing batch {batch_start//batch_size + 1}: repos {batch_start+1}-{batch_end}"
+        )
+
+        for i, repo in enumerate(batch_repos):
+            progress = batch_start + i + 1
+            print(f"[{progress:3d}/{len(repos)}] {repo:<40}", end=" ")
+
+            try:
+                repo_info = analyzer.get_repo_info(repo)
+
+                if "error" in repo_info:
+                    if repo_info.get("status_code") == 404:
+                        results["missing_repos"].append(
+                            {
+                                "repo": repo,
+                                "error": "Repository not found (deleted/moved)",
+                            }
+                        )
+                        print("❌ NOT FOUND")
+                    else:
+                        results["error_count"] += 1
+                        print(f"⚠️  ERROR: {repo_info['error']}")
+                    continue
+
+                # Quick staleness check
+                staleness = analyzer.analyze_staleness(repo_info)
+                results["total_analyzed"] += 1
+
+                repo_result = {
+                    "repo": repo,
+                    "url": f"https://github.com/{repo}",
+                    "description": repo_info.get("description", "")[:100],
+                    "language": repo_info.get("language", "Unknown"),
+                    "stars": repo_info.get("stargazers_count", 0),
+                    "last_push": repo_info.get("pushed_at", ""),
+                    "archived": repo_info.get("archived", False),
+                    "fork": repo_info.get("fork", False),
+                    "staleness_score": staleness["staleness_score"],
+                    "reasons": staleness["reasons"],
+                }
+
+                if repo_info.get("archived", False):
+                    results["archived_repos"].append(repo_result)
+                    print("🗄️  ARCHIVED")
+                elif staleness["staleness_score"] >= 50:
+                    results["stale_repos"].append(repo_result)
+                    print(f"🔴 STALE ({staleness['staleness_score']})")
+                elif staleness["staleness_score"] >= 30:
+                    results["possibly_stale_repos"].append(repo_result)
+                    print(f"🟡 POSSIBLY STALE ({staleness['staleness_score']})")
+                else:
+                    print(f"✅ ACTIVE ({staleness['staleness_score']})")
+
+                # Rate limiting
+                time.sleep(0.05)  # Small delay to avoid rate limits
+
+            except Exception as e:
+                print(f"💥 EXCEPTION: {str(e)}")
+                results["error_count"] += 1
+
+        # Longer pause between batches
+        if batch_end < len(repos):
+            print(f"\n⏸️  Pausing 2 seconds between batches...")
+            time.sleep(2)
+
+    # Sort results
+    results["stale_repos"].sort(key=lambda x: x["staleness_score"], reverse=True)
+    results["possibly_stale_repos"].sort(
+        key=lambda x: x["staleness_score"], reverse=True
+    )
+    results["archived_repos"].sort(key=lambda x: x["stars"], reverse=True)
+    results["missing_repos"].sort(key=lambda x: x["repo"])
+
+    return results
+
+
+def print_focused_summary(results: Dict, output_file: str = None):
+    """Print focused summary with recommendations"""
+    repos_count = (
+        len(results["stale_repos"])
+        + len(results["possibly_stale_repos"])
+        + len(results["archived_repos"])
+        + len(results["missing_repos"])
+    )
+
+    print(f"\n{'='*80}")
+    print("📈 ANALYSIS SUMMARY")
+    print(f"{'='*80}")
+    print(f"Total repositories found: {repos_count + results['total_analyzed']}")
+    print(f"Successfully analyzed: {results['total_analyzed']}")
+    print(f"Archived repositories: {len(results['archived_repos'])}")
+    print(f"Stale repositories: {len(results['stale_repos'])}")
+    print(f"Possibly stale repositories: {len(results['possibly_stale_repos'])}")
+    print(f"Missing/deleted repositories: {len(results['missing_repos'])}")
+    print(f"Errors encountered: {results['error_count']}")
+
+    # Show top stale repositories
+    if results["stale_repos"]:
+        print(f"\n🔴 TOP 10 STALE REPOSITORIES:")
+        print("-" * 60)
+        for repo in results["stale_repos"][:10]:
+            print(f"• {repo['repo']} ⭐{repo['stars']}")
+            print(f"  Score: {repo['staleness_score']} | {', '.join(repo['reasons'])}")
+            if repo["description"]:
+                print(f"  📝 {repo['description']}...")
+            print()
+
+    # Show archived repositories
+    if results["archived_repos"]:
+        print(f"\n🗄️  ARCHIVED REPOSITORIES ({len(results['archived_repos'])}):")
+        print("-" * 60)
+        for repo in results["archived_repos"][:10]:
+            print(f"• {repo['repo']} ⭐{repo['stars']}")
+            if repo["description"]:
+                print(f"  📝 {repo['description']}...")
+        if len(results["archived_repos"]) > 10:
+            print(f"  ... and {len(results['archived_repos']) - 10} more")
+        print()
+
+    # Show missing repositories
+    if results["missing_repos"]:
+        print(f"\n❌ MISSING/DELETED REPOSITORIES ({len(results['missing_repos'])}):")
+        print("-" * 60)
+        for repo in results["missing_repos"]:
+            print(f"• {repo['repo']}")
+        print()
+
+    # Show recommendations
+    total_problematic = (
+        len(results["stale_repos"])
+        + len(results["archived_repos"])
+        + len(results["missing_repos"])
+    )
+    if total_problematic > 0:
+        percentage = (total_problematic / results['total_analyzed']) * 100 if results['total_analyzed'] > 0 else 0
+        print(f"💡 RECOMMENDATIONS:")
+        print(
+            f"   {total_problematic} repositories ({percentage:.1f}%) may need attention:"
+        )
+        print(
+            f"   - Consider removing {len(results['missing_repos'])} missing repositories"
+        )
+        print(f"   - Review {len(results['archived_repos'])} archived repositories")
+        print(f"   - Evaluate {len(results['stale_repos'])} stale repositories")
+        print(
+            f"   - Monitor {len(results['possibly_stale_repos'])} possibly stale repositories"
+        )
+
+    if output_file:
+        print(f"\n💾 Results saved to: {output_file}")
+    print(f"\n✅ Analysis complete!")
+
+
 def main():
     """Main function"""
     import argparse
@@ -276,6 +471,18 @@ def main():
     parser.add_argument("--output", help="Output JSON file path")
     parser.add_argument(
         "--token", help="GitHub API token (or set GITHUB_TOKEN env var)"
+    )
+    parser.add_argument(
+        "--mode",
+        choices=["simple", "focused"],
+        default="simple",
+        help="Analysis mode: simple (basic summary) or focused (detailed with batch processing)",
+    )
+    parser.add_argument(
+        "--batch-size",
+        type=int,
+        default=50,
+        help="Batch size for focused mode (default: 50)",
     )
 
     args = parser.parse_args()
@@ -293,8 +500,15 @@ def main():
         print("Consider setting GITHUB_TOKEN environment variable or using --token")
 
     try:
-        results = analyzer.analyze_awesome_stars(args.readme, args.output)
-        analyzer.print_summary(results)
+        if args.mode == "focused":
+            results = focused_analysis_mode(analyzer, args.readme, args.batch_size)
+            if args.output:
+                with open(args.output, "w") as f:
+                    json.dump(results, f, indent=2)
+            print_focused_summary(results, args.output)
+        else:  # simple mode
+            results = analyzer.analyze_awesome_stars(args.readme, args.output)
+            analyzer.print_summary(results)
         return 0
     except KeyboardInterrupt:
         print("\nAnalysis interrupted by user")
