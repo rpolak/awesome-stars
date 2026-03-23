@@ -45,7 +45,7 @@
 
 ## C 
 
-- [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2/H4
+- [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - The firmware for the HackRF+PortaPack H1/H2/H4/H4M
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [schaeferka/k8s-dungeon-crawl](https://github.com/schaeferka/k8s-dungeon-crawl) - Play the classic roguelike game BrogueCE in your Kubernetes cluster with a controller acting as the dungeon master to validate and mutate your game/Kubernetes objects.
 - [tmewett/BrogueCE](https://github.com/tmewett/BrogueCE) - Brogue: Community Edition - a community-lead fork of the much-loved minimalist roguelike game
@@ -135,6 +135,7 @@
 
 ## Go 
 
+- [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
 - [coroot/coroot-aws-agent](https://github.com/coroot/coroot-aws-agent) - A prometheus exporter that gathers metrics from AWS services.
 - [coroot/coroot-cluster-agent](https://github.com/coroot/coroot-cluster-agent) - 
 - [coroot/coroot-node-agent](https://github.com/coroot/coroot-node-agent) - A Prometheus exporter based on eBPF that gathers comprehensive container metrics
@@ -262,12 +263,10 @@
 - [terraform-aws-modules/terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module to create AWS IAM resources 🇺🇦
 - [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Terraform module to create AWS VPC resources 🇺🇦
 - [terraform-aws-modules/terraform-aws-ecr](https://github.com/terraform-aws-modules/terraform-aws-ecr) - Terraform module to create AWS ECR resources 🇺🇦
-- [aws-samples/aws-shield-advanced-one-click-deployment](https://github.com/aws-samples/aws-shield-advanced-one-click-deployment) - 
 - [terraform-aws-modules/terraform-aws-step-functions](https://github.com/terraform-aws-modules/terraform-aws-step-functions) - Terraform module to create AWS Step Functions 🇺🇦
 - [aws-samples/cloudfront-cmcd-realtime-dashboard](https://github.com/aws-samples/cloudfront-cmcd-realtime-dashboard) - A sample solution for building a dashboard in Grafana for CloudFront logs enriched with CMCD metrics.
 - [port-labs/template-assets](https://github.com/port-labs/template-assets) - This repository holds Port's template assets. This includes:
 - [100daysofdevops/100daysofdevops](https://github.com/100daysofdevops/100daysofdevops) - 
-- [hashicorp-education/learn-consul-kubernetes](https://github.com/hashicorp-education/learn-consul-kubernetes) - 
 - [terraform-community-modules/tf_aws_elasticache_redis](https://github.com/terraform-community-modules/tf_aws_elasticache_redis) - [DEPRECATED] Use https://github.com/terraform-aws-modules/terraform-aws-elasticache
 - [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 
@@ -277,7 +276,6 @@
 - [georgyo/ifconfig.io](https://github.com/georgyo/ifconfig.io) - 
 - [ACloudGuru-Resources/Course-Certified-Solutions-Architect-Associate](https://github.com/ACloudGuru-Resources/Course-Certified-Solutions-Architect-Associate) - AWS Certified Solutions Architect - Associate
 - [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [freebsd/freebsd-doc](https://github.com/freebsd/freebsd-doc) - FreeBSD doc tree (read-only mirror)
 
 ## Handlebars 
@@ -292,7 +290,6 @@
 - [confluentinc/kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples) - Demo applications and code examples for Apache Kafka's Streams API.
 - [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 - [aws-samples/opensearch-bootful](https://github.com/aws-samples/opensearch-bootful) - SpringBoot OpenSearch Integration examples
-- [M-Razavi/Spring-Data-OpenSearch-Example](https://github.com/M-Razavi/Spring-Data-OpenSearch-Example) - 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [apache/jmeter](https://github.com/apache/jmeter) - Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
@@ -334,7 +331,6 @@
 - [tilfinltd/aws-extend-switch-roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
-- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript v2 (End-of-Life as of 09/08/2025). The AWS SDK for JavaScript v3 in the browser and Node.js is available here: https://github.com/aws/aws-sdk-js-v3
 - [callicoder/node-easy-notes-app](https://github.com/callicoder/node-easy-notes-app) - A simple Note-Taking app built using Node.js, Express and Mongoose
 - [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
@@ -433,6 +429,7 @@
 
 ## Python 
 
+- [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
 - [BuddySirJava/SSH-Studio](https://github.com/BuddySirJava/SSH-Studio) - Easy, GUI SSH config editor and validator built with Python, GTK 4 and libadwaita.
 - [connectrpc/connect-python](https://github.com/connectrpc/connect-python) - The Python implementation of Connect: Protobuf RPC that works.
 - [rpolak/awesome-stars](https://github.com/rpolak/awesome-stars) - My Awesome List
@@ -490,6 +487,7 @@
 - [watson-developer-cloud/python-sdk](https://github.com/watson-developer-cloud/python-sdk) - :snake: Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [ishepard/pydriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories
 - [mnubo/kubernetes-py](https://github.com/mnubo/kubernetes-py) - A python module for Kubernetes.
@@ -560,7 +558,6 @@
 - [mendhak/docker-http-https-echo](https://github.com/mendhak/docker-http-https-echo) - Docker image that echoes request data as JSON; listens on HTTP/S, useful for debugging.
 - [crytic/slither-action](https://github.com/crytic/slither-action) - 
 - [owntracks/owntracks](https://github.com/owntracks/owntracks) - OwnTracks
-- [vfarcic/crossplane-tutorial](https://github.com/vfarcic/crossplane-tutorial) - 
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [we-are-mono/filesystem](https://github.com/we-are-mono/filesystem) - The OS foundation for our upcoming router
@@ -583,7 +580,6 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [freebsd/poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
-- [bobthecow/git-flow-completion](https://github.com/bobthecow/git-flow-completion) - Bash, Zsh and fish completion support for git-flow.
 
 ## Solidity 
 
@@ -638,7 +634,6 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [nestjs/graphql](https://github.com/nestjs/graphql) - GraphQL (TypeScript) module for Nest framework (node.js) 🍷
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
-- [aws/awsui-documentation](https://github.com/aws/awsui-documentation) - Information on how to get started using AWS UI components
 - [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools for AWS is a developer toolkit to implement Serverless best practices and increase developer velocity.
 - [aws-samples/aws-iam-identity-center-extensions](https://github.com/aws-samples/aws-iam-identity-center-extensions) - This solution is intended for enterprises that need a streamlined way of managing user access to their AWS accounts. Using this solution, your identity and access management teams can extend AWS SSO f
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
