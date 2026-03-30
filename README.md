@@ -135,6 +135,7 @@
 
 ## Go 
 
+- [upbound/provider-opentofu](https://github.com/upbound/provider-opentofu) - OpenTofu Crossplane Provider
 - [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
 - [coroot/coroot-aws-agent](https://github.com/coroot/coroot-aws-agent) - A prometheus exporter that gathers metrics from AWS services.
 - [coroot/coroot-cluster-agent](https://github.com/coroot/coroot-cluster-agent) - 
