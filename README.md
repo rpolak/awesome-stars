@@ -306,6 +306,7 @@
 
 ## JavaScript 
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [vercel/serve-handler](https://github.com/vercel/serve-handler) - The foundation of `serve`
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [OpenZeppelin/defender-templates](https://github.com/OpenZeppelin/defender-templates) - Templates for using OpenZeppelin Defender using Serverless configurations
@@ -432,7 +433,6 @@
 ## Python 
 
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
 - [BuddySirJava/SSH-Studio](https://github.com/BuddySirJava/SSH-Studio) - Easy, GUI SSH config editor and validator built with Python, GTK 4 and libadwaita.
@@ -583,7 +583,7 @@
 - [maxschlapfer/MacAdminHelpers](https://github.com/maxschlapfer/MacAdminHelpers) - Helpers for OS X packaging and MacAdmins
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config) - Shell scripts for customized macOS machine setup.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [freebsd/poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
 
