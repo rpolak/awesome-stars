@@ -602,6 +602,7 @@
 
 ## Swift 
 
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [wikimedia/wikipedia-ios](https://github.com/wikimedia/wikipedia-ios) - 📱The official Wikipedia iOS app.
 - [Automattic/simplenote-ios](https://github.com/Automattic/simplenote-ios) - Simplenote for iOS
@@ -609,6 +610,7 @@
 
 ## TypeScript 
 
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes
