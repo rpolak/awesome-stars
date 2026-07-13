@@ -138,6 +138,9 @@
 
 ## Go 
 
+- [crossplane/upjet-provider-template](https://github.com/crossplane/upjet-provider-template) - A template for Upjet-based crossplane providers.
+- [crossplane/upjet](https://github.com/crossplane/upjet) - A code generation framework and runtime for Crossplane providers
+- [rootlyhq/terraform-provider-rootly](https://github.com/rootlyhq/terraform-provider-rootly) - Terraform provider for Rootly - manage incident management, on-call schedules, workflows, and alerts as code
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [upbound/provider-opentofu](https://github.com/upbound/provider-opentofu) - OpenTofu Crossplane Provider
 - [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
@@ -206,6 +209,7 @@
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is an open-source framework for building platforms
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [hashicorp/terraform-provider-kubernetes](https://github.com/hashicorp/terraform-provider-kubernetes) - Terraform Kubernetes provider
 - [port-labs/terraform-provider-port-labs](https://github.com/port-labs/terraform-provider-port-labs) - Port Terraform Provider
@@ -385,6 +389,7 @@
 
 ## Others 
 
+- [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve-Factor Manifesto
 - [Forte-Service-Company-Ltd/infrastructure-tooling](https://github.com/Forte-Service-Company-Ltd/infrastructure-tooling) - Common Build, Test, and Analysis Github Actions
 - [mudgen/awesome-diamonds](https://github.com/mudgen/awesome-diamonds) - A curated list of awesome EIP2535 Diamonds resources, libraries, tools, articles and more
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
@@ -569,7 +574,6 @@
 - [crytic/slither-action](https://github.com/crytic/slither-action) - 
 - [owntracks/owntracks](https://github.com/owntracks/owntracks) - OwnTracks
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [we-are-mono/filesystem](https://github.com/we-are-mono/filesystem) - The OS foundation for our upcoming router
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
