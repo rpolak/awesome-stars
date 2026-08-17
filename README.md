@@ -142,12 +142,14 @@
 
 ## Go 
 
+- [ifelsedeveloper/terraform-provider-evmdeploy](https://github.com/ifelsedeveloper/terraform-provider-evmdeploy) - 
 - [streamingfast/firehose-core](https://github.com/streamingfast/firehose-core) - Firehose Blockchain Agnostic Indexing Stack
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [crossplane/upjet-provider-template](https://github.com/crossplane/upjet-provider-template) - A template for Upjet-based crossplane providers.
 - [crossplane/upjet](https://github.com/crossplane/upjet) - A code generation framework and runtime for Crossplane providers
 - [rootlyhq/terraform-provider-rootly](https://github.com/rootlyhq/terraform-provider-rootly) - Terraform provider for Rootly - manage incident management, on-call schedules, workflows, and alerts as code
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [upbound/provider-opentofu](https://github.com/upbound/provider-opentofu) - OpenTofu Crossplane Provider
 - [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
 - [coroot/coroot-aws-agent](https://github.com/coroot/coroot-aws-agent) - A prometheus exporter that gathers metrics from AWS services.
@@ -320,7 +322,6 @@
 ## JavaScript 
 
 - [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview) - A standard Crossplane UI dashboard.
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [vercel/serve-handler](https://github.com/vercel/serve-handler) - The foundation of `serve`
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [OpenZeppelin/defender-templates](https://github.com/OpenZeppelin/defender-templates) - Templates for using OpenZeppelin Defender using Serverless configurations
@@ -674,8 +675,8 @@
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
-- [ProjectOpenSea/opensea-js](https://github.com/ProjectOpenSea/opensea-js) - TypeScript SDK for the OpenSea marketplace
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
+- [ProjectOpenSea/opensea-sdk](https://github.com/ProjectOpenSea/opensea-sdk) - TypeScript SDK for the OpenSea marketplace
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [decentraland/marketplace](https://github.com/decentraland/marketplace) - 🏛️ Decentraland's NFT Marketplace
