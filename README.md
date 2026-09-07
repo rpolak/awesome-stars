@@ -134,6 +134,7 @@
 
 ## Dockerfile 
 
+- [digitalocean/doks-debug](https://github.com/digitalocean/doks-debug) - A Docker image with Kubernetes manifests for investigation and troubleshooting.
 - [guessi/dnsperf-bench](https://github.com/guessi/dnsperf-bench) - DNS Performance Testing with Kubernetes Pods
 - [Ilshidur/tor-relay-docker](https://github.com/Ilshidur/tor-relay-docker) - 🐋 Lightweight TOR relay image (17.41 MB), based on LinuxServer.io Alpine Linux.
 - [FoldingAtHome/containers](https://github.com/FoldingAtHome/containers) - Docker containers for easily launching the Folding@home client anywhere!
@@ -585,7 +586,6 @@
 - [mendhak/docker-http-https-echo](https://github.com/mendhak/docker-http-https-echo) - Docker image that echoes request data as JSON; listens on HTTP/S, useful for debugging.
 - [crytic/slither-action](https://github.com/crytic/slither-action) - 
 - [owntracks/owntracks](https://github.com/owntracks/owntracks) - OwnTracks
-- [digitalocean/doks-debug](https://github.com/digitalocean/doks-debug) - A Docker image with Kubernetes manifests for investigation and troubleshooting.
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [we-are-mono/filesystem](https://github.com/we-are-mono/filesystem) - The OS foundation for our upcoming router
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
@@ -635,7 +635,7 @@
 - [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
