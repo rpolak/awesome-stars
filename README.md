@@ -37,6 +37,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Solidity](#solidity)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -217,6 +218,7 @@
 - [crossplane-contrib/provider-helm](https://github.com/crossplane-contrib/provider-helm) - Crossplane Helm Provider
 - [crossplane-contrib/provider-kubernetes](https://github.com/crossplane-contrib/provider-kubernetes) - Crossplane provider to provision and manage Kubernetes objects on (remote) Kubernetes clusters.
 - [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider
+- [georgyo/ifconfig.io](https://github.com/georgyo/ifconfig.io) - 
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
@@ -294,7 +296,6 @@
 ## HTML 
 
 - [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go) - Go backend for LibreSpeed
-- [georgyo/ifconfig.io](https://github.com/georgyo/ifconfig.io) - 
 - [ACloudGuru-Resources/Course-Certified-Solutions-Architect-Associate](https://github.com/ACloudGuru-Resources/Course-Certified-Solutions-Architect-Associate) - AWS Certified Solutions Architect - Associate
 - [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser
 - [freebsd/freebsd-doc](https://github.com/freebsd/freebsd-doc) - FreeBSD doc tree (read-only mirror)
@@ -483,7 +484,6 @@
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [secynic/ipwhois](https://github.com/secynic/ipwhois) - Retrieve and parse whois data for IPv4 and IPv6 addresses
@@ -627,6 +627,10 @@
 - [Forte-Service-Company-Ltd/liquidity-altbc](https://github.com/Forte-Service-Company-Ltd/liquidity-altbc) - 
 - [Uniswap/v4-core](https://github.com/Uniswap/v4-core) - 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
+
+## Svelte 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Swift 
 
